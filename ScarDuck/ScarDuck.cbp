@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ScarDuck" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\ScarDuck" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\ScarDuck" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="1.2.1.BSTree2List.cpp" />
+		<Unit filename="1.2.10.MaxLenInBTree.cpp" />
+		<Unit filename="1.2.3.StackWithMin.cpp" />
+		<Unit filename="1.2.4.MaxSumInSubArray.cpp" />
+		<Unit filename="1.2.5.SumOfPathInBSTree.cpp" />
+		<Unit filename="1.2.7.ReverseSentence.cpp" />
+		<Unit filename="1.2.8.verifySquenceOfBSTree.cpp" />
+		<Unit filename="1.3.1 1+2+...+n.cpp" />
+		<Unit filename="1.3.10.Matrix.cpp" />
+		<Unit filename="1.3.2 findKthNodeFromTail.cpp" />
+		<Unit filename="1.3.3.sumOfTwoNum.cpp" />
+		<Unit filename="1.3.4.convertBSTree2Mirror.cpp" />
+		<Unit filename="1.3.5.visitByLevelBSTree.cpp" />
+		<Unit filename="1.3.6. findOnlyOnceChar.cpp" />
+		<Unit filename="1.3.7.lastNumInCircle.cpp" />
+		<Unit filename="1.3.8.Fibonacci.cpp" />
+		<Unit filename="1.3.9.FindNumberInLeftShiftSequence.cpp" />
+		<Unit filename="1.4.1.BSTreePreOrder.cpp" />
+		<Unit filename="1.4.10.numOfOneInBinary.cpp" />
+		<Unit filename="1.4.2.listMerge.cpp" />
+		<Unit filename="1.4.3.nStringOfMplusOneLength.cpp" />
+		<Unit filename="1.4.4.nTroopCompete.cpp" />
+		<Unit filename="1.4.5.max2DSubMatrix.cpp" />
+		<Unit filename="1.4.6.powerfulHarmoniousSystem.cpp" />
+		<Unit filename="1.4.7.minSquenceFromAandB.cpp" />
+		<Unit filename="1.4.8.numOf1InDecimal.cpp" />
+		<Unit filename="1.4.9.squenceOfStackPushPop.cpp" />
+		<Unit filename="1.5.1.jumpStairs.cpp" />
+		<Unit filename="1.5.2.stringLeftRotation.cpp" />
+		<Unit filename="1.5.3.findMaxNumString.cpp" />
+		<Unit filename="test.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

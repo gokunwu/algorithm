@@ -1,0 +1,292 @@
+# depslib dependency file v1.0
+1357379267 source:e:\c++ project\ms180interviewquestions\scarduck\bstree2list.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+
+1358409300 
+
+1357613153 source:e:\c++ project\scarduck\bstree2list.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+
+1357628321 source:e:\c++ project\scarduck\3.stackwithmin.cpp
+	<cstdio>
+	<cstdlib>
+	<assert.h>
+	<iostream>
+	<deque>
+
+1357613153 source:e:\c++ project\scarduck\1.bstree2list.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+
+1357697933 source:e:\c++ project\scarduck\4.maxsuminsubarray.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
+1357717243 source:e:\c++ project\scarduck\5.sumofpathinbstree.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1357786892 source:e:\c++ project\scarduck\7.reversesentence.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1357870905 source:e:\c++ project\scarduck\8.verifysquenceofbstree.cpp
+	<cstdlib>
+	<iostream>
+
+1357870870 source:e:\c++ project\scarduck\10.maxleninbtree.cpp
+	<cstdlib>
+	<iostream>
+
+1358133974 source:e:\c++ project\scarduck\1.2.10.maxleninbtree.cpp
+	<cstdlib>
+	<iostream>
+
+1357628321 source:e:\c++ project\scarduck\1.2.3.stackwithmin.cpp
+	<cstdio>
+	<cstdlib>
+	<assert.h>
+	<iostream>
+	<deque>
+
+1357697933 source:e:\c++ project\scarduck\1.2.4.maxsuminsubarray.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
+1357717243 source:e:\c++ project\scarduck\1.2.5.sumofpathinbstree.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1357786892 source:e:\c++ project\scarduck\1.2.7.reversesentence.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1357870905 source:e:\c++ project\scarduck\1.2.8.verifysquenceofbstree.cpp
+	<cstdlib>
+	<iostream>
+
+1357613153 source:e:\c++ project\scarduck\1.2.1.bstree2list.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+
+1358167373 source:e:\c++ project\scarduck\1.3.1 1+2+...+n.cpp
+	<cstdlib>
+	<iostream>
+
+1358215258 source:e:\c++ project\scarduck\1.3.2 findkthnodefromtail.cpp
+	<cstdlib>
+	<iostream>
+
+1358216433 source:e:\c++ project\scarduck\1.3.3.sumoftwonum.cpp
+	<cstdlib>
+	<iostream>
+
+1358236150 source:e:\c++ project\scarduck\1.3.4.convertbstree2mirror.cpp
+	<cstdlib>
+	<iostream>
+	<stack>
+
+1358304302 source:e:\c++ project\scarduck\1.3.5.visitbylevelbstree.cpp
+	<cstdlib>
+	<iostream>
+	<queue>
+
+1358320439 source:e:\c++ project\scarduck\1.3.6. findonlyoncechar.cpp
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1358326470 source:e:\c++ project\scarduck\1.3.7.lastnumincircle.cpp
+	<cstdlib>
+	<iostream>
+	<list>
+
+1358405167 source:e:\c++ project\scarduck\1.3.8.fibonacci.cpp
+	<cstdlib>
+	<iostream>
+
+1358409300 source:e:\c++ project\scarduck\1.3.9.findnumberinleftshiftsequence.cpp
+	<cstdlib>
+	<iostream>
+
+1372056835 source:e:\c++ project\scarduck\test.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<vector>
+	<fstream>
+
+1357613153 source:/media/wk/工作学习/C++ Project/ScarDuck/1.2.1.BSTree2List.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+
+1358133974 source:/media/wk/工作学习/C++ Project/ScarDuck/1.2.10.MaxLenInBTree.cpp
+	<cstdlib>
+	<iostream>
+
+1357628321 source:/media/wk/工作学习/C++ Project/ScarDuck/1.2.3.StackWithMin.cpp
+	<cstdio>
+	<cstdlib>
+	<assert.h>
+	<iostream>
+	<deque>
+
+1357697933 source:/media/wk/工作学习/C++ Project/ScarDuck/1.2.4.MaxSumInSubArray.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
+1357717243 source:/media/wk/工作学习/C++ Project/ScarDuck/1.2.5.SumOfPathInBSTree.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1357786892 source:/media/wk/工作学习/C++ Project/ScarDuck/1.2.7.ReverseSentence.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1357870905 source:/media/wk/工作学习/C++ Project/ScarDuck/1.2.8.verifySquenceOfBSTree.cpp
+	<cstdlib>
+	<iostream>
+
+1358167373 source:/media/wk/工作学习/C++ Project/ScarDuck/1.3.1 1+2+...+n.cpp
+	<cstdlib>
+	<iostream>
+
+1358215258 source:/media/wk/工作学习/C++ Project/ScarDuck/1.3.2 findKthNodeFromTail.cpp
+	<cstdlib>
+	<iostream>
+
+1358216433 source:/media/wk/工作学习/C++ Project/ScarDuck/1.3.3.sumOfTwoNum.cpp
+	<cstdlib>
+	<iostream>
+
+1358236150 source:/media/wk/工作学习/C++ Project/ScarDuck/1.3.4.convertBSTree2Mirror.cpp
+	<cstdlib>
+	<iostream>
+	<stack>
+
+1358304302 source:/media/wk/工作学习/C++ Project/ScarDuck/1.3.5.visitByLevelBSTree.cpp
+	<cstdlib>
+	<iostream>
+	<queue>
+
+1358320439 source:/media/wk/工作学习/C++ Project/ScarDuck/1.3.6. findOnlyOnceChar.cpp
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1358326470 source:/media/wk/工作学习/C++ Project/ScarDuck/1.3.7.lastNumInCircle.cpp
+	<cstdlib>
+	<iostream>
+	<list>
+
+1358405167 source:/media/wk/工作学习/C++ Project/ScarDuck/1.3.8.Fibonacci.cpp
+	<cstdlib>
+	<iostream>
+
+1358409300 source:/media/wk/工作学习/C++ Project/ScarDuck/1.3.9.FindNumberInLeftShiftSequence.cpp
+	<cstdlib>
+	<iostream>
+
+1371719663 source:/media/wk/工作学习/C++ Project/ScarDuck/test.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<vector>
+	<fstream>
+
+1372044295 source:e:\c++ project\scarduck\1.3.10.matrix.cpp
+
+1372056777 source:e:\c++ project\scarduck\1.4.1.btreepreorder.cpp
+	<iostream>
+	<cstdlib>
+
+1372066299 source:e:\c++ project\scarduck\1.4.1.bstreepreorder.cpp
+	<iostream>
+	<cstdlib>
+	<stack>
+
+1372210892 source:e:\c++ project\scarduck\1.4.2.listmerge.cpp
+	<cstdlib>
+	<iostream>
+
+1372320004 source:e:\c++ project\scarduck\1.4.3.nstringofmplusonelength.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+
+1372388317 source:e:\c++ project\scarduck\1.4.4.ntroopcompete.cpp
+	<cstdlib>
+	<iostream>
+
+1372644269 source:e:\c++ project\scarduck\1.4.5.max2dsubmatrix.cpp
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<iostream>
+
+1372659352 source:e:\c++ project\scarduck\1.4.6.powerfulharmonioussystem.cpp
+	<cstdlib>
+	<iostream>
+
+1372731829 source:e:\c++ project\scarduck\1.4.7.minsquencefromaandb.cpp
+	<cstdlib>
+	<iostream>
+	<cmath>
+
+1372732711 source:e:\c++ project\scarduck\1.4.8.numof1indecimal.cpp
+	<cstdlib>
+	<iostream>
+
+1372746422 source:e:\c++ project\scarduck\1.4.9.squenceofstackpushpop.cpp
+	<cstdlib>
+	<iostream>
+	<stack>
+	<string>
+
+1372747302 source:e:\c++ project\scarduck\1.4.10.numofoneinbinary.cpp
+	<cstdlib>
+	<iostream>
+
+1372747642 source:e:\c++ project\scarduck\1.5.1.jumpstairs.cpp
+	<cstdlib>
+	<iostream>
+
+1372748702 source:e:\c++ project\scarduck\1.5.2.stringleftrotation.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+
