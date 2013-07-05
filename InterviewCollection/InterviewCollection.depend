@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1364203561 source:e:\c++ project\interviewcollection\13.5.1 selectionsort.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
+1364203518 
+
+1364571324 source:e:\c++ project\interviewcollection\13.5.2 insertsort.cpp
+	<cstdlib>
+	<iostream>
+
+1364203561 source:/media/wk/工作学习/C++ Project/InterviewCollection/13.5.1 selectionSort.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
+1364637208 source:e:\c++ project\interviewcollection\13.5.3 bubblesort.cpp
+	<cstdlib>
+	<iostream>
+
+1364710876 source:e:\c++ project\interviewcollection\13.5.4 mergesort.cpp
+	<cstdlib>
+	<iostream>
+
+1364714903 source:e:\c++ project\interviewcollection\13.5.5 quicksort.cpp
+	<cstdlib>
+	<iostream>
+
+1364717581 source:e:\c++ project\interviewcollection\13.5.7 heapsort.cpp
+	<cstdlib>
+	<iostream>
+
+1364571324 source:e:\c++ project\interviewcollection\002 insertsort.cpp
+	<cstdlib>
+	<iostream>
+
+1364637208 source:e:\c++ project\interviewcollection\003 bubblesort.cpp
+	<cstdlib>
+	<iostream>
+
+1364710876 source:e:\c++ project\interviewcollection\004 mergesort.cpp
+	<cstdlib>
+	<iostream>
+
+1364714903 source:e:\c++ project\interviewcollection\005 quicksort.cpp
+	<cstdlib>
+	<iostream>
+
+1372146419 source:e:\c++ project\interviewcollection\006 heapsort.cpp
+	<cstdlib>
+	<iostream>
+
+1364203561 source:e:\c++ project\interviewcollection\001 selectionsort.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
+1372157810 source:e:\c++ project\interviewcollection\007 sumequalyinx.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1372157789 source:e:\c++ project\interviewcollection\008 nbrackets.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+	<string>
+

@@ -1,4 +1,4 @@
-
+#if 0
 /*
 copyright@nciaebupt 转载请注明出处
 题目:在字符串中找出连续最长的数字串，并把这个串的长度返回，并把这个最长数字串付
@@ -51,3 +51,4 @@ int main(int argc, char ** argv){
   system("pause");
   return 0;
 }
+#endif

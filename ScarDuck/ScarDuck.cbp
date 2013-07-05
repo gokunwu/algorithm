@@ -62,6 +62,10 @@
 		<Unit filename="1.5.1.jumpStairs.cpp" />
 		<Unit filename="1.5.2.stringLeftRotation.cpp" />
 		<Unit filename="1.5.3.findMaxNumString.cpp" />
+		<Unit filename="1.5.4.listManipulation.cpp" />
+		<Unit filename="1.5.5.fourRedCardsAndFourBlueCards.cpp" />
+		<Unit filename="1.5.6.combineOfNEqualM.cpp" />
+		<Unit filename="1.5.7.convertString2Int.cpp" />
 		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />

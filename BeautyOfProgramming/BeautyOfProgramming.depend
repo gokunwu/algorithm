@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1358926055 source:e:\c++ project\beautyofprogramming\2.1 numof1inbinary.cpp
+	<cstdlib>
+	<iostream>
+
+1358929590 source:e:\c++ project\beautyofprogramming\2.2 dontafraidoffactorial.cpp
+	<cstdlib>
+	<iostream>
+
+1358931340 source:e:\c++ project\beautyofprogramming\2.3 findwhopostmost.cpp
+	<cstdlib>
+	<iostream>
+

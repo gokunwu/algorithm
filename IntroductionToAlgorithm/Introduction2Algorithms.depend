@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1358756139 source:e:\c++ project\introductiontoalgorithm\main.cpp
+	<iostream>
+
+1358756183 source:e:\c++ project\introductiontoalgorithm\2.1insertionsort.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1358756246 source:e:\c++ project\introductiontoalgorithm\7quicksort.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+
+1358756328 source:e:\c++ project\introductiontoalgorithm\12binarysearchtree.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1358756410 source:e:\c++ project\introductiontoalgorithm\13redblacktree.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1358911069 source:e:\c++ project\introductiontoalgorithm\26.2.edmonds-karp.cpp
+	<cstdlib>
+	<iostream>
+	<queue>
+

@@ -1,0 +1,21 @@
+a 3
+f 1
+ca 1
+cf 1
+en 1
+gh 1
+in 1
+is 7
+it 2
+je 1
+jo 1
+of 5
+sa 1
+to 2
+MPQ 5
+and 4
+daj 1
+the 3
+in the window 1
+that 6
+wukun 2

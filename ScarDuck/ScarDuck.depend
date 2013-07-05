@@ -290,3 +290,19 @@
 	<iostream>
 	<cstring>
 
+1372834268 source:e:\c++ project\scarduck\1.5.3.findmaxnumstring.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+
+1372837801 source:e:\c++ project\scarduck\1.5.4.listmanipulation.cpp
+	<cstdlib>
+	<iostream>
+
+1372838488 source:e:\c++ project\scarduck\1.5.5.fourredcardsandfourbluecards.cpp
+
+1372919779 source:e:\c++ project\scarduck\1.5.6.combineofnequalm.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+
