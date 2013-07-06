@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="1.5.6.combineOfNEqualM.cpp" open="0" top="0" tabpos="0">
-		<Cursor position="1184" topLine="27" />
+	<File name="1.5.10.nIntSquenceSumN.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="783" topLine="11" />
 	</File>
-	<File name="1.5.7.convertString2Int.cpp" open="1" top="1" tabpos="0">
-		<Cursor position="0" topLine="0" />
+	<File name="1.5.9.nBrackets.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="13" topLine="0" />
+	</File>
+	<File name="1.6.1.btreeDepth.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1244" topLine="50" />
+	</File>
+	<File name="1.6.2.fullPermutationsOfString.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1644" topLine="45" />
+	</File>
+	<File name="1.6.3.partitionByOddAndEven.cpp" open="1" top="1" tabpos="0">
+		<Cursor position="2225" topLine="31" />
 	</File>
 </CodeBlocks_layout_file>

@@ -1,5 +1,5 @@
 
-
+#if 0
 /*
 copyright@nciaebupt 转载请注明出处
 题目：输入一个表示整数的字符串，把该字符串转换成整数并输出。例如输入字符串"345"，
@@ -66,7 +66,7 @@ int main(int argc, char ** argv){
   system("pause");
   return 0;
 }
-
+#endif
 
 
 
