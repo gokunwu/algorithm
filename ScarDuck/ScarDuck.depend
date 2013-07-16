@@ -503,7 +503,36 @@
 	<iostream>
 	<vector>
 
-1373100162 source:e:\git\algorithm\scarduck\1.6.3.partitionbyoddandeven.cpp
+1373287787 source:e:\git\algorithm\scarduck\1.6.3.partitionbyoddandeven.cpp
 	<cstdlib>
+	<iostream>
+
+1373290536 source:e:\git\algorithm\scarduck\1.6.4.deletelistnodeino1.cpp
+	<cstdlib>
+	<iostream>
+
+1373373455 source:e:\git\algorithm\scarduck\1.6.5.reverseprintlistnode.cpp
+	<cstdlib>
+	<iostream>
+
+1373372701 source:e:\git\algorithm\scarduck\1.6.7.finalclassincpp.cpp
+
+1373376218 source:e:\git\algorithm\scarduck\1.6.9.twonotrepeatednuminarr.cpp
+	<cstdlib>
+	<iostream>
+
+1373372701 source:e:\git\algorithm\scarduck\1.6.6.finalclassincpp.cpp
+
+1373376753 source:e:\git\algorithm\scarduck\1.6.8.twonotrepeatednuminarr.cpp
+	<cstdlib>
+	<iostream>
+
+1373458947 source:e:\git\algorithm\scarduck\1.6.9.commonnodeintwolist.cpp
+	<cstdlib>
+	<iostream>
+
+1373463159 source:e:\git\algorithm\scarduck\1.6.10.delcharinstring.cpp
+	<cstdlib>
+	<cstring>
 	<iostream>
 

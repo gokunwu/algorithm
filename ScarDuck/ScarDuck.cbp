@@ -70,8 +70,15 @@
 		<Unit filename="1.5.8.lis.cpp" />
 		<Unit filename="1.5.9.nBrackets.cpp" />
 		<Unit filename="1.6.1.btreeDepth.cpp" />
+		<Unit filename="1.6.10.delCharInString.cpp" />
 		<Unit filename="1.6.2.fullPermutationsOfString.cpp" />
 		<Unit filename="1.6.3.partitionByOddAndEven.cpp" />
+		<Unit filename="1.6.4.deleteListNodeInO1.cpp" />
+		<Unit filename="1.6.5.reversePrintListNode.cpp" />
+		<Unit filename="1.6.6.finalClassInCpp.cpp" />
+		<Unit filename="1.6.8.twoNotRepeatedNumInArr.cpp" />
+		<Unit filename="1.6.9.commonNodeInTwoList.cpp" />
+		<Unit filename="1.7.1.uglyNumber.cpp" />
 		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />

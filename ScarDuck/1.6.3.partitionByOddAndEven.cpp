@@ -1,4 +1,4 @@
-
+#if 0
 /*
 copyright@nciaebupt 转载请注明出处
 题目：输入一个整数数组，调整数组中数字的顺序，使得所有奇数位于数组的前半部分，所
@@ -61,3 +61,4 @@ int main(int argc, char ** argv){
   system("pause");
   return 0;
 }
+#endif
