@@ -1,5 +1,5 @@
 
-
+#if 0
 /*
 copyright@nciaebupt 转载请注明出处
 题目：用递归颠倒一个栈。例如输入栈{1, 2, 3, 4, 5}，1在栈顶。颠倒之后的栈为{5, 4, 3, 2, 1}，5处在栈顶。
@@ -46,3 +46,4 @@ int main(int argc, char ** argv){
   system("pause");
   return 0;
 }
+#endif
