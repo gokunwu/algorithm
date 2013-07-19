@@ -80,6 +80,7 @@
 		<Unit filename="1.6.9.commonNodeInTwoList.cpp" />
 		<Unit filename="1.7.1.uglyNumber.cpp" />
 		<Unit filename="1.7.3.reversePrintStack.cpp" />
+		<Unit filename="1.7.4.fivePokerIsJunko.cpp" />
 		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />
