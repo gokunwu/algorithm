@@ -79,6 +79,7 @@
 		<Unit filename="1.6.8.twoNotRepeatedNumInArr.cpp" />
 		<Unit filename="1.6.9.commonNodeInTwoList.cpp" />
 		<Unit filename="1.7.1.uglyNumber.cpp" />
+		<Unit filename="1.7.2.printOne2MaxOfN.cpp" />
 		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />

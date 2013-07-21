@@ -1,4 +1,5 @@
 
+#if 0
 /*
 copyright@nciaebupt 转载请注明出处
 题目：我们假设一个数组中已经有若干丑数，并且这些丑数是按顺序排列的，我们把现有的最
@@ -57,3 +58,5 @@ int main(int argc, char ** argv){
   system("pause");
   return 0;
 }
+
+#endif
