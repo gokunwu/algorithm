@@ -545,3 +545,21 @@
 	<iostream>
 	<stack>
 
+1374138846 source:e:\git\algorithm\scarduck\1.7.4.fivepokerisjunko.cpp
+	<cstdlib>
+	<iostream>
+
+1374562503 source:e:\git\algorithm\scarduck\1.7.5.sumofndice.cpp
+	<cstdlib>
+	<iostream>
+
+1374570347 source:e:\git\algorithm\scarduck\1.7.6.arrangearray2smallestnum.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1374578112 source:e:\git\algorithm\scarduck\1.7.7.minnuminrotatearray.cpp
+	<cstdlib>
+	<iostream>
+
