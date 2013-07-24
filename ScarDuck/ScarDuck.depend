@@ -5,7 +5,7 @@
 	<iostream>
 	<string>
 
-1358409300 
+1373980805 
 
 1357613153 source:e:\c++ project\scarduck\bstree2list.cpp
 	<cstdio>
@@ -536,16 +536,13 @@
 	<cstring>
 	<iostream>
 
-<<<<<<< HEAD
-1373978059 source:e:\git\algorithm\scarduck\1.7.1.uglynumber.cpp
+1374113270 D
+
+1374582993 source:e:\git\algorithm\scarduck\1.7.1.uglynumber.cpp
 	<cstdlib>
 	<iostream>
 
 1373980805 source:e:\git\algorithm\scarduck\1.7.2.printone2maxofn.cpp
-	<cstdlib>
-	<iostream>
-=======
-1374132624 source:e:\git\algorithm\scarduck\1.7.1.uglynumber.cpp
 	<cstdlib>
 	<iostream>
 
@@ -553,7 +550,8 @@
 	<cstdlib>
 	<iostream>
 	<stack>
->>>>>>> 6d1c46c0ef193a3097e12ed94a5132a83eca1c24
+
+1374133173 c46c0ef193a3097e12ed94a5132a83eca1c24
 
 1374138846 source:e:\git\algorithm\scarduck\1.7.4.fivepokerisjunko.cpp
 	<cstdlib>
@@ -569,7 +567,24 @@
 	<cstring>
 	<iostream>
 
-1374578112 source:e:\git\algorithm\scarduck\1.7.7.minnuminrotatearray.cpp
+1374579892 source:e:\git\algorithm\scarduck\1.7.7.minnuminrotatearray.cpp
+	<cstdlib>
+	<iostream>
+
+1374636594 source:e:\git\algorithm\scarduck\1.7.8.permutationsofsring.cpp
+	<cstring>
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<vector>
+
+1374646586 source:e:\git\algorithm\scarduck\1.7.9.power.cpp
+	<cstdlib>
+	<iostream>
+
+1374650290 source:e:\git\algorithm\scarduck\1.7.10.powerlogn.cpp
 	<cstdlib>
 	<iostream>
 

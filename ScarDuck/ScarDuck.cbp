@@ -79,19 +79,14 @@
 		<Unit filename="1.6.8.twoNotRepeatedNumInArr.cpp" />
 		<Unit filename="1.6.9.commonNodeInTwoList.cpp" />
 		<Unit filename="1.7.1.uglyNumber.cpp" />
-<<<<<<< HEAD
-		<Unit filename="1.7.2.printOne2MaxOfN.cpp" />
-=======
+		<Unit filename="1.7.10.powerLogn.cpp" />
 		<Unit filename="1.7.3.reversePrintStack.cpp" />
 		<Unit filename="1.7.4.fivePokerIsJunko.cpp" />
-<<<<<<< HEAD
-		<Unit filename="1.7.5.sumOfNDice.cpp" />
 		<Unit filename="1.7.6.arrangeArray2SmallestNum.cpp" />
 		<Unit filename="1.7.7.minNumInRotateArray.cpp" />
 		<Unit filename="1.7.8.permutationsOfSring.cpp" />
-=======
->>>>>>> 6d1c46c0ef193a3097e12ed94a5132a83eca1c24
->>>>>>> 193c5d32130e64dea4d8002c75f3403fdb8a94c0
+		<Unit filename="1.7.9.power.cpp" />
+		<Unit filename="1.8.1.longestPalindrome.cpp" />
 		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />
