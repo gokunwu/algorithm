@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> 6d1c46c0ef193a3097e12ed94a5132a83eca1c24
 #if 0
 /*
 copyright@nciaebupt 转载请注明出处
@@ -57,4 +61,8 @@ int main(int argc, char ** argv){
   system("pause");
   return 0;
 }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 6d1c46c0ef193a3097e12ed94a5132a83eca1c24
 #endif

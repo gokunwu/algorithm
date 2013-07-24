@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
+<<<<<<< HEAD
 	<File name="1.7.4.fivePokerIsJunko.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+=======
+<<<<<<< HEAD
+	<File name="1.7.1.uglyNumber.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1940" topLine="29" />
+	</File>
+	<File name="1.7.2.printOne2MaxOfN.cpp" open="1" top="1" tabpos="0">
+		<Cursor position="122" topLine="0" />
+=======
+	<File name="1.7.4.fivePokerIsJunko.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+>>>>>>> 193c5d32130e64dea4d8002c75f3403fdb8a94c0
 		<Cursor>
 			<Cursor1 position="13" topLine="0" />
 		</Cursor>
@@ -40,6 +51,7 @@
 		<Cursor>
 			<Cursor1 position="1936" topLine="28" />
 		</Cursor>
+>>>>>>> 6d1c46c0ef193a3097e12ed94a5132a83eca1c24
 	</File>
 	<File name="1.7.8.permutationsOfSring.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>

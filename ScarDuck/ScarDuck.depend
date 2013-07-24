@@ -536,6 +536,15 @@
 	<cstring>
 	<iostream>
 
+<<<<<<< HEAD
+1373978059 source:e:\git\algorithm\scarduck\1.7.1.uglynumber.cpp
+	<cstdlib>
+	<iostream>
+
+1373980805 source:e:\git\algorithm\scarduck\1.7.2.printone2maxofn.cpp
+	<cstdlib>
+	<iostream>
+=======
 1374132624 source:e:\git\algorithm\scarduck\1.7.1.uglynumber.cpp
 	<cstdlib>
 	<iostream>
@@ -544,6 +553,7 @@
 	<cstdlib>
 	<iostream>
 	<stack>
+>>>>>>> 6d1c46c0ef193a3097e12ed94a5132a83eca1c24
 
 1374138846 source:e:\git\algorithm\scarduck\1.7.4.fivepokerisjunko.cpp
 	<cstdlib>
