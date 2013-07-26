@@ -588,3 +588,8 @@
 	<cstdlib>
 	<iostream>
 
+1374734934 source:e:\git\algorithm\scarduck\1.8.1.longestpalindrome.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+

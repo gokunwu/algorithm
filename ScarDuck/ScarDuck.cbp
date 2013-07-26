@@ -87,6 +87,8 @@
 		<Unit filename="1.7.8.permutationsOfSring.cpp" />
 		<Unit filename="1.7.9.power.cpp" />
 		<Unit filename="1.8.1.longestPalindrome.cpp" />
+		<Unit filename="1.8.2.numGreaterThanHalf.cpp" />
+		<Unit filename="1.8.3.lowestParentOfTwoNode.cpp" />
 		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />

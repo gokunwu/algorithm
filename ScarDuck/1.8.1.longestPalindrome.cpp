@@ -1,4 +1,4 @@
-
+#if 0
 /*
 copyright@nciaebupt 转载请注明出处
 问题：
@@ -70,3 +70,4 @@ int main(int argc, char ** argv)
   system("pause");
   return 0;
 }
+#endif
