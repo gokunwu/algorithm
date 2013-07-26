@@ -36,8 +36,45 @@ struct TreeNode
   TreeNode * right;
 };
 
+void insertBTNode(TreeNode ** & root, int value)
+{
+  TreeNode * newnode = new TreeNode;
+  newnode->value = value;
+  newnode->left = NULL;
+  newnode->right = NULL;
+  if(root == NULL){
+    *root = newnode;
+  }
+  else{
+    TreeNode * cur = *root;
+    TreeNode * parent = *root;
+    while(cur != NULL){
+      parent = cur;
+      if(value < cur->value){
+        cur = cur->left;
+      }
+      else{
+        cur = cur->right;
+      }
+    }
+  }
+}
+
+void createBTree(int * arr, int len, TreeNode ** root)
+{
+  if(arr == NULL || len < 1){
+    return;
+  }
+  for(int i = 0; i < len; ++i){
+    insertBTNode(root, arr[i]);
+  }
+}
+
 int main(int argc, char ** argv)
 {
+  int arr[] = {2,4,1,6,9,5,7};
+  int len = sizeof(arr)/sizeof(arr[0]);
+
 
   system("pause");
   return 0;
