@@ -89,6 +89,8 @@
 		<Unit filename="1.8.1.longestPalindrome.cpp" />
 		<Unit filename="1.8.2.numGreaterThanHalf.cpp" />
 		<Unit filename="1.8.3.lowestParentOfTwoNode.cpp" />
+		<Unit filename="1.8.4.complexList.cpp" />
+		<Unit filename="1.8.5.aboutList.cpp" />
 		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />
