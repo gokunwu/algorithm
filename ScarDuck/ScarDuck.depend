@@ -605,9 +605,34 @@
 	<cstdlib>
 	<iostream>
 
-1375431099 source:e:\git\algorithm\scarduck\1.8.5.aboutlist.cpp
+1375777782 source:e:\git\algorithm\scarduck\1.8.5.aboutlist.cpp
 	<cstdlib>
 	<iostream>
 	<cstdlib>
 	<iostream>
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<iostream>
+
+1375776855 source:e:\git\algorithm\scarduck\1.8.6.arraycomparelist.cpp
+
+1375778423 source:e:\git\algorithm\scarduck\1.8.7.strstr.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1375781231 source:e:\git\algorithm\scarduck\1.8.8.numleftsmallrightgreat.cpp
+	<cstdlib>
+	<iostream>
+
+1375782471 source:e:\git\algorithm\scarduck\1.8.10.urlsize.cpp
+
+1375782076 source:e:\git\algorithm\scarduck\1.8.9.reversestringpair.cpp
 

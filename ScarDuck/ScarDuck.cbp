@@ -87,10 +87,17 @@
 		<Unit filename="1.7.8.permutationsOfSring.cpp" />
 		<Unit filename="1.7.9.power.cpp" />
 		<Unit filename="1.8.1.longestPalindrome.cpp" />
+		<Unit filename="1.8.10.urlsize.cpp" />
 		<Unit filename="1.8.2.numGreaterThanHalf.cpp" />
 		<Unit filename="1.8.3.lowestParentOfTwoNode.cpp" />
 		<Unit filename="1.8.4.complexList.cpp" />
 		<Unit filename="1.8.5.aboutList.cpp" />
+		<Unit filename="1.8.6.arrayCompareList.cpp" />
+		<Unit filename="1.8.7.strstr.cpp" />
+		<Unit filename="1.8.8.numLeftSmallRightGreat.cpp" />
+		<Unit filename="1.8.9.reverseStringPair.cpp" />
+		<Unit filename="1.9.1.partitionArrayByOdd.cpp" />
+		<Unit filename="1.9.2.memmove.cpp" />
 		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />
