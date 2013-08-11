@@ -82,9 +82,31 @@
 		<Unit filename="1.6.8.twoNotRepeatedNumInArr.cpp" />
 		<Unit filename="1.6.9.commonNodeInTwoList.cpp" />
 		<Unit filename="1.7.1.uglyNumber.cpp" />
+<<<<<<< HEAD
 		<Unit filename="1.7.3.reversePrintStack.cpp" />
 		<Unit filename="1.7.4.fivePokerIsJunko.cpp" />
 		<Unit filename="1.9.10.listReverse.cpp" />
+=======
+		<Unit filename="1.7.10.powerLogn.cpp" />
+		<Unit filename="1.7.3.reversePrintStack.cpp" />
+		<Unit filename="1.7.4.fivePokerIsJunko.cpp" />
+		<Unit filename="1.7.6.arrangeArray2SmallestNum.cpp" />
+		<Unit filename="1.7.7.minNumInRotateArray.cpp" />
+		<Unit filename="1.7.8.permutationsOfSring.cpp" />
+		<Unit filename="1.7.9.power.cpp" />
+		<Unit filename="1.8.1.longestPalindrome.cpp" />
+		<Unit filename="1.8.10.urlsize.cpp" />
+		<Unit filename="1.8.2.numGreaterThanHalf.cpp" />
+		<Unit filename="1.8.3.lowestParentOfTwoNode.cpp" />
+		<Unit filename="1.8.4.complexList.cpp" />
+		<Unit filename="1.8.5.aboutList.cpp" />
+		<Unit filename="1.8.6.arrayCompareList.cpp" />
+		<Unit filename="1.8.7.strstr.cpp" />
+		<Unit filename="1.8.8.numLeftSmallRightGreat.cpp" />
+		<Unit filename="1.8.9.reverseStringPair.cpp" />
+		<Unit filename="1.9.1.partitionArrayByOdd.cpp" />
+		<Unit filename="1.9.2.memmove.cpp" />
+>>>>>>> 0ded59c7f2b6bd108d0b7ae2a626427f8ea7bd49
 		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />
