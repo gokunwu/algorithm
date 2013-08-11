@@ -7,8 +7,8 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/ScarDuck" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj/Debug/" />
+				<Option output="bin\Debug\ScarDuck" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -16,8 +16,8 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/ScarDuck" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj/Release/" />
+				<Option output="bin\Release\ScarDuck" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -32,6 +32,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="1.10.1.delNumInStr.cpp" />
+		<Unit filename="1.10.2.firstLongestSubstrInTwoStr.cpp" />
+		<Unit filename="1.10.3.reverseStringWithoutMem.cpp" />
 		<Unit filename="1.2.1.BSTree2List.cpp" />
 		<Unit filename="1.2.10.MaxLenInBTree.cpp" />
 		<Unit filename="1.2.3.StackWithMin.cpp" />
@@ -79,12 +82,9 @@
 		<Unit filename="1.6.8.twoNotRepeatedNumInArr.cpp" />
 		<Unit filename="1.6.9.commonNodeInTwoList.cpp" />
 		<Unit filename="1.7.1.uglyNumber.cpp" />
-<<<<<<< HEAD
-		<Unit filename="1.7.2.printOne2MaxOfN.cpp" />
-=======
 		<Unit filename="1.7.3.reversePrintStack.cpp" />
 		<Unit filename="1.7.4.fivePokerIsJunko.cpp" />
->>>>>>> 6d1c46c0ef193a3097e12ed94a5132a83eca1c24
+		<Unit filename="1.9.10.listReverse.cpp" />
 		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />
