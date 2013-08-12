@@ -1,4 +1,4 @@
-
+#if 0
 /*
 copyright@nciaebupt 转载请注明出处
 题目：用C语言实现函数void * memmove(void *dest,const void *src,size_t n)
@@ -14,12 +14,32 @@ memmove函数的功能是拷贝src 所指的内存内容前n个字节到dest所指的地址上。
 void * memmove(void * dest, const void *src, size_t n)
 {
   void * ret = dest;
+  if((char *)dest <= (char *)src || (char *)dest >= (char *)src + n){//if dest and src has overlap
+    while(n--){
+      *((char *)dest) = *((char *)src);
+      dest = (char *)dest + 1;
+      src = (char *)src + 1;
+    }
+  }
+  else{
+    dest = (char *)dest + n - 1;
+    src = (char *)src + n - 1;
+    while(n--){
+      *((char *)dest) = *((char *)src);
+      dest = (char *)dest - 1;
+      src = (char *)src - 1;
+    }
+  }
+  return ret;
 }
 
 int main(int argc, char ** argv)
 {
-
+  char str[] = "I am a good boy.";
+  char * ret = (char *)memmove(str+2, str+3, 5);
+  std::cout<<ret<<std::endl;
 
   system("pause");
   return 0;
 }
+#endif

@@ -98,6 +98,13 @@
 		<Unit filename="1.8.9.reverseStringPair.cpp" />
 		<Unit filename="1.9.1.partitionArrayByOdd.cpp" />
 		<Unit filename="1.9.2.memmove.cpp" />
+		<Unit filename="1.9.3.randomGenerator.cpp" />
+		<Unit filename="1.9.4.searchQuery.cpp" />
+		<Unit filename="1.9.5.substrCntInStr.cpp" />
+		<Unit filename="1.9.6.array2tree.cpp" />
+		<Unit filename="1.9.7.bigIntMultiple.cpp" />
+		<Unit filename="1.9.8.continuousIncreaseNumStr.cpp" />
+		<Unit filename="1.9.9.moveStar2Front.cpp" />
 		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />

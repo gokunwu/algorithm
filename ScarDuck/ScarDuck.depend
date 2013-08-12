@@ -636,3 +636,33 @@
 
 1375782076 source:e:\git\algorithm\scarduck\1.8.9.reversestringpair.cpp
 
+1375788320 source:e:\git\algorithm\scarduck\1.9.1.partitionarraybyodd.cpp
+	<cstdlib>
+	<iostream>
+
+1375857624 source:e:\git\algorithm\scarduck\1.9.2.memmove.cpp
+	<cstdlib>
+	<iostream>
+
+1375860830 source:e:\git\algorithm\scarduck\1.9.3.randomgenerator.cpp
+
+1375861846 source:e:\git\algorithm\scarduck\1.9.4.searchquery.cpp
+
+1375867511 source:e:\git\algorithm\scarduck\1.9.5.substrcntinstr.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1375868614 source:e:\git\algorithm\scarduck\1.9.6.array2tree.cpp
+	<cstdlib>
+	<iostream>
+
+1376032768 source:e:\git\algorithm\scarduck\1.9.7.bigintmultiple.cpp
+	<cstdlib>
+	<iostream>
+
+1376041234 source:e:\git\algorithm\scarduck\1.9.8.continuousincreasenumstr.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+
