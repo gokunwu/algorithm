@@ -1,4 +1,4 @@
-
+#if 0
 /*
 题目：定义Fibonacci 数列如下：
      / 0 n=0
@@ -28,3 +28,4 @@ int main(int args,char ** argv)
     system("pause");
     return 0;
 }
+#endif

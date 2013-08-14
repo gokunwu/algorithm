@@ -1,5 +1,5 @@
 
-
+#if 0
 /*
 copyright@nciaebupt 转载请注明出处
 题目：输入数字n，按顺序输出从1到最大的n位10进制数。比如输入3，则输出1、2、3
@@ -69,3 +69,4 @@ int main(int argc, char ** argv){
   return 0;
 }
 
+#endif

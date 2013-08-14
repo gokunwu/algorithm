@@ -1,4 +1,4 @@
-
+#if 0
 /*
 copyright@nciaebupt 转载请注明出处
 题目：函数将字符串中的字符'*'移到串的前部分
@@ -55,3 +55,4 @@ int main(int argc, char ** argv)
   system("pause");
   return 0;
 }
+#endif

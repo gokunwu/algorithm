@@ -7,8 +7,8 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin\Debug\ScarDuck" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj\Debug\" />
+				<Option output="bin/Debug/ScarDuck" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -16,8 +16,8 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin\Release\ScarDuck" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj\Release\" />
+				<Option output="bin/Release/ScarDuck" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -32,195 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="1.10.1.delNumInStr.cpp" />
-		<Unit filename="1.10.2.firstLongestSubstrInTwoStr.cpp" />
-		<Unit filename="1.10.3.reverseStringWithoutMem.cpp" />
-		<Unit filename="1.2.1.BSTree2List.cpp" />
-		<Unit filename="1.2.10.MaxLenInBTree.cpp" />
-		<Unit filename="1.2.3.StackWithMin.cpp" />
-		<Unit filename="1.2.4.MaxSumInSubArray.cpp" />
-		<Unit filename="1.2.5.SumOfPathInBSTree.cpp" />
-		<Unit filename="1.2.7.ReverseSentence.cpp" />
-		<Unit filename="1.2.8.verifySquenceOfBSTree.cpp" />
-		<Unit filename="1.3.1 1+2+...+n.cpp" />
-		<Unit filename="1.3.10.Matrix.cpp" />
-		<Unit filename="1.3.2 findKthNodeFromTail.cpp" />
-		<Unit filename="1.3.3.sumOfTwoNum.cpp" />
-		<Unit filename="1.3.4.convertBSTree2Mirror.cpp" />
-		<Unit filename="1.3.5.visitByLevelBSTree.cpp" />
-		<Unit filename="1.3.6. findOnlyOnceChar.cpp" />
-		<Unit filename="1.3.7.lastNumInCircle.cpp" />
-		<Unit filename="1.3.8.Fibonacci.cpp" />
-		<Unit filename="1.3.8.Fibonacci11.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="1.3.9.FindNumberInLeftShiftSequence.cpp" />
-		<Unit filename="1.4.1.BSTreePreOrder.cpp" />
-		<Unit filename="1.4.10.numOfOneInBinary.cpp" />
-		<Unit filename="1.4.2.listMerge.cpp" />
-		<Unit filename="1.4.3.nStringOfMplusOneLength.cpp" />
-		<Unit filename="1.4.4.nTroopCompete.cpp" />
-		<Unit filename="1.4.5.max2DSubMatrix.cpp" />
-		<Unit filename="1.4.6.powerfulHarmoniousSystem.cpp" />
-		<Unit filename="1.4.7.minSquenceFromAandB.cpp" />
-		<Unit filename="1.4.8.numOf1InDecimal.cpp" />
-		<Unit filename="1.4.9.squenceOfStackPushPop.cpp" />
-		<Unit filename="1.5.1.jumpStairs.cpp" />
-		<Unit filename="1.5.10.nIntSquenceSumN.cpp" />
-		<Unit filename="1.5.2.stringLeftRotation.cpp" />
-		<Unit filename="1.5.3.findMaxNumString.cpp" />
-		<Unit filename="1.5.4.listManipulation.cpp" />
-		<Unit filename="1.5.5.fourRedCardsAndFourBlueCards.cpp" />
-		<Unit filename="1.5.6.combineOfNEqualM.cpp" />
-		<Unit filename="1.5.7.convertString2Int.cpp" />
-		<Unit filename="1.5.8.lis.cpp" />
-		<Unit filename="1.5.9.nBrackets.cpp" />
-		<Unit filename="1.6.1.btreeDepth.cpp" />
-		<Unit filename="1.6.10.delCharInString.cpp" />
-		<Unit filename="1.6.2.fullPermutationsOfString.cpp" />
-		<Unit filename="1.6.3.partitionByOddAndEven.cpp" />
-		<Unit filename="1.6.4.deleteListNodeInO1.cpp" />
-		<Unit filename="1.6.5.reversePrintListNode.cpp" />
-		<Unit filename="1.6.6.finalClassInCpp.cpp" />
-		<Unit filename="1.6.8.twoNotRepeatedNumInArr.cpp" />
-		<Unit filename="1.6.9.commonNodeInTwoList.cpp" />
-		<Unit filename="1.7.1.uglyNumber.cpp" />
-		<Unit filename="1.7.10.powerLogn.cpp" />
-		<Unit filename="1.7.2.printOne2MaxOfN.cpp" />
-		<Unit filename="1.7.3.reversePrintStack.cpp" />
-		<Unit filename="1.7.4.fivePokerIsJunko.cpp" />
-		<Unit filename="1.7.5.sumOfNDice.cpp" />
-		<Unit filename="1.7.6.arrangeArray2SmallestNum.cpp" />
-		<Unit filename="1.7.7.minNumInRotateArray.cpp" />
-		<Unit filename="1.7.8.permutationsOfSring.cpp" />
-		<Unit filename="1.7.9.power.cpp" />
-		<Unit filename="1.8.1.longestPalindrome.cpp" />
-		<Unit filename="1.8.10.urlsize.cpp" />
-		<Unit filename="1.8.2.numGreaterThanHalf.cpp" />
-		<Unit filename="1.8.3.lowestParentOfTwoNode.cpp" />
-		<Unit filename="1.8.4.complexList.cpp" />
-		<Unit filename="1.8.5.aboutList.cpp" />
-		<Unit filename="1.8.6.arrayCompareList.cpp" />
-		<Unit filename="1.8.7.strstr.cpp" />
-		<Unit filename="1.8.8.numLeftSmallRightGreat.cpp" />
-		<Unit filename="1.8.9.reverseStringPair.cpp" />
-		<Unit filename="1.9.1.partitionArrayByOdd.cpp" />
-		<Unit filename="1.9.10.listReverse.cpp" />
-		<Unit filename="1.9.2.memmove.cpp" />
-<<<<<<< HEAD
-		<Unit filename="1.9.3.randomGenerator.cpp" />
-		<Unit filename="1.9.4.searchQuery.cpp" />
-		<Unit filename="1.9.5.substrCntInStr.cpp" />
-		<Unit filename="1.9.6.array2tree.cpp" />
-		<Unit filename="1.9.7.bigIntMultiple.cpp" />
-		<Unit filename="1.9.8.continuousIncreaseNumStr.cpp" />
-		<Unit filename="1.9.9.moveStar2Front.cpp" />
-=======
-		<Unit filename="ScarDuck.depend" />
-		<Unit filename="ScarDuck.layout" />
-		<Unit filename="bin\Debug\ScarDuck" />
-		<Unit filename="bin\Debug\ScarDuck.exe" />
-		<Unit filename="obj\Debug\1.10.1.delNumInStr.o" />
-		<Unit filename="obj\Debug\1.10.2.firstLongestSubstrInTwoStr.o" />
-		<Unit filename="obj\Debug\1.10.3.reverseStringWithoutMem.o" />
-		<Unit filename="obj\Debug\1.2.1.BSTree2List.o" />
-		<Unit filename="obj\Debug\1.2.10.MaxLenInBTree.o" />
-		<Unit filename="obj\Debug\1.2.3.StackWithMin.o" />
-		<Unit filename="obj\Debug\1.2.4.MaxSumInSubArray.o" />
-		<Unit filename="obj\Debug\1.2.5.SumOfPathInBSTree.o" />
-		<Unit filename="obj\Debug\1.2.7.ReverseSentence.o" />
-		<Unit filename="obj\Debug\1.2.8.verifySquenceOfBSTree.o" />
-		<Unit filename="obj\Debug\1.3.1 1+2+...+n.o" />
-		<Unit filename="obj\Debug\1.3.10.Matrix.o" />
-		<Unit filename="obj\Debug\1.3.2 findKthNodeFromTail.o" />
-		<Unit filename="obj\Debug\1.3.3.sumOfTwoNum.o" />
-		<Unit filename="obj\Debug\1.3.4.convertBSTree2Mirror.o" />
-		<Unit filename="obj\Debug\1.3.5.visitByLevelBSTree.o" />
-		<Unit filename="obj\Debug\1.3.6. findOnlyOnceChar.o" />
-		<Unit filename="obj\Debug\1.3.7.lastNumInCircle.o" />
-		<Unit filename="obj\Debug\1.3.8.Fibonacci.o" />
-		<Unit filename="obj\Debug\1.3.9.FindNumberInLeftShiftSequence.o" />
-		<Unit filename="obj\Debug\1.4.1.BSTreePreOrder.o" />
-		<Unit filename="obj\Debug\1.4.1.BTreePreOrder.o" />
-		<Unit filename="obj\Debug\1.4.10.numOfOneInBinary.o" />
-		<Unit filename="obj\Debug\1.4.2.listMerge.o" />
-		<Unit filename="obj\Debug\1.4.3.nStringOfMplusOneLength.o" />
-		<Unit filename="obj\Debug\1.4.4.nTroopCompete.o" />
-		<Unit filename="obj\Debug\1.4.5.max2DSubMatrix.o" />
-		<Unit filename="obj\Debug\1.4.6.powerfulHarmoniousSystem.o" />
-		<Unit filename="obj\Debug\1.4.7.minSquenceFromAandB.o" />
-		<Unit filename="obj\Debug\1.4.8.numOf1InDecimal.o" />
-		<Unit filename="obj\Debug\1.4.9.squenceOfStackPushPop.o" />
-		<Unit filename="obj\Debug\1.5.1.jumpStairs.o" />
-		<Unit filename="obj\Debug\1.5.10.nIntSquenceSumN.o" />
-		<Unit filename="obj\Debug\1.5.2.stringLeftRotation.o" />
-		<Unit filename="obj\Debug\1.5.3.findMaxNumString.o" />
-		<Unit filename="obj\Debug\1.5.4.listManipulation.o" />
-		<Unit filename="obj\Debug\1.5.5.fourRedCardsAndFourBlueCards.o" />
-		<Unit filename="obj\Debug\1.5.6.combineOfNEqualM.o" />
-		<Unit filename="obj\Debug\1.5.7.convertString2Int.o" />
-		<Unit filename="obj\Debug\1.5.8.lis.o" />
-		<Unit filename="obj\Debug\1.5.9.nBrackets.o" />
-		<Unit filename="obj\Debug\1.6.1.btreeDepth.o" />
-		<Unit filename="obj\Debug\1.6.10.delCharInString.o" />
-		<Unit filename="obj\Debug\1.6.2.fullPermutationsOfString.o" />
-		<Unit filename="obj\Debug\1.6.3.partitionByOddAndEven.o" />
-		<Unit filename="obj\Debug\1.6.4.deleteListNodeInO1.o" />
-		<Unit filename="obj\Debug\1.6.5.reversePrintListNode.o" />
-		<Unit filename="obj\Debug\1.6.6.finalClassInCpp.o" />
-		<Unit filename="obj\Debug\1.6.7.finalClassInCpp.o" />
-		<Unit filename="obj\Debug\1.6.8.twoNotRepeatedNumInArr.o" />
-		<Unit filename="obj\Debug\1.6.9.commonNodeInTwoList.o" />
-		<Unit filename="obj\Debug\1.6.9.twoNotRepeatedNumInArr.o" />
-		<Unit filename="obj\Debug\1.7.1.uglyNumber.o" />
-		<Unit filename="obj\Debug\1.7.10.powerLogn.o" />
-		<Unit filename="obj\Debug\1.7.2.printOne2MaxOfN.o" />
-		<Unit filename="obj\Debug\1.7.3.reversePrintStack.o" />
-		<Unit filename="obj\Debug\1.7.4.fivePokerIsJunko.o" />
-		<Unit filename="obj\Debug\1.7.5.sumOfNDice.o" />
-		<Unit filename="obj\Debug\1.7.6.arrangeArray2SmallestNum.o" />
-		<Unit filename="obj\Debug\1.7.7.minNumInRotateArray.o" />
-		<Unit filename="obj\Debug\1.7.8.permutationsOfSring.o" />
-		<Unit filename="obj\Debug\1.7.9.power.o" />
-		<Unit filename="obj\Debug\1.8.1.longestPalindrome.o" />
-		<Unit filename="obj\Debug\1.8.10.urlsize.o" />
-		<Unit filename="obj\Debug\1.8.2.numGreaterThanHalf.o" />
-		<Unit filename="obj\Debug\1.8.3.lowestParentOfTwoNode.o" />
-		<Unit filename="obj\Debug\1.8.4.complexList.o" />
-		<Unit filename="obj\Debug\1.8.5.aboutList.o" />
-		<Unit filename="obj\Debug\1.8.6.arrayCompareList.o" />
-		<Unit filename="obj\Debug\1.8.7.strstr.o" />
-		<Unit filename="obj\Debug\1.8.8.numLeftSmallRightGreat.o" />
-		<Unit filename="obj\Debug\1.8.9.reverseStringPair.o" />
-		<Unit filename="obj\Debug\1.9.1.partitionArrayByOdd.o" />
-		<Unit filename="obj\Debug\1.9.10.listReverse.o" />
-		<Unit filename="obj\Debug\1.BSTree2List.o" />
-		<Unit filename="obj\Debug\10.MaxLenInBTree.o" />
-		<Unit filename="obj\Debug\3.StackWithMin.o" />
-		<Unit filename="obj\Debug\4.MaxSumInSubArray.o" />
-		<Unit filename="obj\Debug\5.SumOfPathInBSTree.o" />
-		<Unit filename="obj\Debug\7.ReverseSentence.o" />
-		<Unit filename="obj\Debug\8.verifySquenceOfBSTree.o" />
-		<Unit filename="obj\Debug\BSTree2List.o" />
-		<Unit filename="obj\Debug\StackWithMin.o" />
-		<Unit filename="obj\Debug\test.o" />
-		<Unit filename="scarDuck.pdf" />
->>>>>>> 2642064b1e8b8ae30f8cc95a2c2523894efc9953
-		<Unit filename="test.cpp" />
-		<Unit filename="wsj23.pos.txt" />
+		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
-			<debugger />
-			<DoxyBlocks>
-				<comment_style block="0" line="0" />
-				<doxyfile_project />
-				<doxyfile_build />
-				<doxyfile_warnings />
-				<doxyfile_output />
-				<doxyfile_dot />
-				<general />
-			</DoxyBlocks>
 			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
