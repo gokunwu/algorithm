@@ -42,6 +42,11 @@
 		<Unit filename="1.10.7.nEggMBracket.cpp" />
 		<Unit filename="1.10.8.hash.cpp" />
 		<Unit filename="1.10.9.brotherString.cpp" />
+		<Unit filename="1.11.1.minAbsDiffOfTwo.cpp" />
+		<Unit filename="1.11.2.mergeStr.cpp" />
+		<Unit filename="1.11.3.positiveIntDevide.cpp" />
+		<Unit filename="1.11.4.slope.cpp" />
+		<Unit filename="1.11.5.stringCompression.cpp" />
 		<Unit filename="1.2.1.BSTree2List.cpp" />
 		<Unit filename="1.2.10.MaxLenInBTree.cpp" />
 		<Unit filename="1.2.3.StackWithMin.cpp" />

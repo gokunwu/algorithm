@@ -1,4 +1,4 @@
-
+#if 0
 /*
 copyright@nciaebupt 转载请注明出处
 题目：2012年4月67日的腾讯暑期实习生招聘笔试中，出了一道与上述21题类似的题，原题大
@@ -21,38 +21,29 @@ void specialMultiply(int * a, int * b, int len)
   if(a == NULL || len < 1){
     return;
   }
-  for(int i = 0; i < len; ++i){
-    b[i] = a[i];
+  b[0] = 1;
+  for(int i = 1; i < len; ++i){
+    b[0] = b[0]*a[i-1];
+    b[i] = b[0];
   }
-
-  for(int i = 2; i < len; ++i){
-    a[i] = a[i-1]*a[i-2];
-    std::cout<<a[i];
+  b[0] = 1;
+  for(int i = len-2; i > 0; --i){
+    b[0] = b[0]*a[i+1];
+    b[i] = b[i]*b[0];
   }
-  a[1] = a[0];
-  a[0] = 1;
-  std::cout<<std::endl;
-  std::cout<<std::endl;
-  b[len-2] = b[len-1];
-  b[len-1] = 1;
-  for(int i = len -3; i >= 0; --i){
-    b[i] = b[i+1]*b[i+2];
-  }
-  for(int i = 0; i < len; ++i){
-    b[i] = a[i]*b[i];
-  }
+  b[0] = b[0]*a[1];
 }
 
 int main(int argc, char ** argv)
 {
-  int a[] = {1,2,3,4,5};
+  int a[] = {2,3,4,5,6};
   int alen = sizeof(a)/sizeof(int);
   int * b = new int[alen];
   specialMultiply(a, b, alen);
   for(int i = 0; i < alen; ++i){
     std::cout<<b[i]<<std::endl;
   }
-
   system("pause");
   return 0;
 }
+#endif
