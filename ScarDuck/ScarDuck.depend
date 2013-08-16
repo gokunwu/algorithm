@@ -381,12 +381,19 @@
 	<vector>
 	<fstream>
 
-1376473874 source:e:\git\algorithm\scarduck\1.10.7.neggmbracket.cpp
+1376473934 source:e:\git\algorithm\scarduck\1.10.7.neggmbracket.cpp
 	<cstdlib>
 	<cmath>
 	<iostream>
 
 1376472796 source:e:\git\algorithm\scarduck\1.3.8.fibonacci11.c
 	<cstdlib>
+	<iostream>
+
+1376480622 source:e:\git\algorithm\scarduck\1.10.8.hash.cpp
+
+1376481798 source:e:\git\algorithm\scarduck\1.10.9.brotherstring.cpp
+	<cstdlib>
+	<cstring>
 	<iostream>
 
