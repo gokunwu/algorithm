@@ -7,8 +7,8 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/ScarDuck" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj/Debug/" />
+				<Option output="bin\Debug\ScarDuck" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -16,8 +16,8 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/ScarDuck" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj/Release/" />
+				<Option output="bin\Release\ScarDuck" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -47,6 +47,11 @@
 		<Unit filename="1.11.3.positiveIntDevide.cpp" />
 		<Unit filename="1.11.4.slope.cpp" />
 		<Unit filename="1.11.5.stringCompression.cpp" />
+		<Unit filename="1.11.6.findReplacedNum.cpp" />
+		<Unit filename="1.11.7.findTheRepeatNum.cpp" />
+		<Unit filename="1.11.8.javaHashtableAndHashMap.cpp" />
+		<Unit filename="1.11.9.permutationsOfNum.cpp" />
+		<Unit filename="1.12.1.delRepeatNodeInTwoList.cpp" />
 		<Unit filename="1.2.1.BSTree2List.cpp" />
 		<Unit filename="1.2.10.MaxLenInBTree.cpp" />
 		<Unit filename="1.2.3.StackWithMin.cpp" />
@@ -126,12 +131,9 @@
 		<Unit filename="1.9.7.bigIntMultiple.cpp" />
 		<Unit filename="1.9.8.continuousIncreaseNumStr.cpp" />
 		<Unit filename="1.9.9.moveStar2Front.cpp" />
-		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />
-			<envvars />
 			<debugger />
-			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
