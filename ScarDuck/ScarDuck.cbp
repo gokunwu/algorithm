@@ -7,8 +7,8 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin\Debug\ScarDuck" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj\Debug\" />
+				<Option output="bin/Debug/ScarDuck" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -16,8 +16,8 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin\Release\ScarDuck" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj\Release\" />
+				<Option output="bin/Release/ScarDuck" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -52,6 +52,16 @@
 		<Unit filename="1.11.8.javaHashtableAndHashMap.cpp" />
 		<Unit filename="1.11.9.permutationsOfNum.cpp" />
 		<Unit filename="1.12.1.delRepeatNodeInTwoList.cpp" />
+		<Unit filename="1.12.10.findSpecialNodeInBSTree.cpp" />
+		<Unit filename="1.12.11.strstrAndStrncmp.cpp" />
+		<Unit filename="1.12.2.longestCommonString.cpp" />
+		<Unit filename="1.12.3.unsignedLong2Binary.cpp" />
+		<Unit filename="1.12.4.40yiInt.cpp" />
+		<Unit filename="1.12.5.bitmap.cpp" />
+		<Unit filename="1.12.6.define.cpp" />
+		<Unit filename="1.12.7.greaterThanK.cpp" />
+		<Unit filename="1.12.8.randomFunction.cpp" />
+		<Unit filename="1.12.9.judgeNumIsSquareOfSomeone.cpp" />
 		<Unit filename="1.2.1.BSTree2List.cpp" />
 		<Unit filename="1.2.10.MaxLenInBTree.cpp" />
 		<Unit filename="1.2.3.StackWithMin.cpp" />
@@ -131,9 +141,12 @@
 		<Unit filename="1.9.7.bigIntMultiple.cpp" />
 		<Unit filename="1.9.8.continuousIncreaseNumStr.cpp" />
 		<Unit filename="1.9.9.moveStar2Front.cpp" />
+		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />
+			<envvars />
 			<debugger />
+			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
