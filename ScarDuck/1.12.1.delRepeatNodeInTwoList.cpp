@@ -1,4 +1,5 @@
 
+#if 0
 /*
 copyright@nciaebupt 转载请注明出处
 题目：有双向循环链表结点定义为：
@@ -104,7 +105,7 @@ node * createListB()
   newnode5->next = NULL;
 
   newnode1->next = newnode2;
-  newnode1->front = newnode6;
+  newnode1->front = newnode5;
 
   newnode2->next = newnode3;
   newnode2->front = newnode1;
@@ -121,20 +122,79 @@ node * createListB()
   return newnode1;
 }
 
-int deleteNode(node * headb, int value)
+int deleteNode(node * & headb, int value)
 {
   if(headb == NULL){
     return -1;
   }
   node * pnode = headb;
-  while(pnode != )
+  do{
+    if(pnode->data == value){
+      pnode->front->next = pnode->next;
+      pnode->next->front = pnode->front;
+      if(pnode == headb){
+        headb = pnode->next;
+      }
+      delete pnode;
+      pnode = NULL;
+      return 1;
+    }
+    else{
+      pnode = pnode->next;
+    }
+  }while(pnode != headb);
+  return 0;
+}
+
+void de(node * & heada, node * & headb)
+{
+  if(heada == NULL || headb == NULL){
+    return;
+  }
+  node * pnode = heada;
+  do{
+    if(deleteNode(headb, pnode->data) == 1){
+      pnode->front->next = pnode->next;
+      pnode->next->front = pnode->front;
+      if(pnode == heada){
+        heada = pnode->next;
+      }
+      node * tmp = pnode;
+      pnode = pnode->next;
+      delete tmp;
+      tmp = NULL;
+    }
+    else{
+      pnode = pnode->next;
+    }
+  }while(pnode != heada);
+}
+
+void walkList(node * & head)
+{
+  if(head == NULL){
+    return;
+  }
+  node * pnode = head;
+  do{
+    std::cout<<pnode->data<<std::endl;
+    pnode = pnode->next;
+  }while(pnode != head);
 }
 
 int main(int argc, char ** argv)
 {
   node * heada = createListA();
   node * headb = createListB();
-
+  walkList(heada);
+  std::cout<<std::endl;
+  walkList(headb);
+  de(heada, headb);
+  std::cout<<std::endl;
+  walkList(heada);
+  std::cout<<std::endl;
+  walkList(headb);
   system("pause");
   return 0;
 }
+#endif
