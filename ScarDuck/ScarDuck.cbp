@@ -62,6 +62,16 @@
 		<Unit filename="1.12.7.greaterThanK.cpp" />
 		<Unit filename="1.12.8.randomFunction.cpp" />
 		<Unit filename="1.12.9.judgeNumIsSquareOfSomeone.cpp" />
+		<Unit filename="1.13.1.splitSet2TwoEqualSet.cpp" />
+		<Unit filename="1.13.10.algorithmDesign.cpp" />
+		<Unit filename="1.13.2.topK.cpp" />
+		<Unit filename="1.13.3.javaCollection.cpp" />
+		<Unit filename="1.13.4.printMatrixClockwisely.cpp" />
+		<Unit filename="1.13.5.allSubsetInSet.cpp" />
+		<Unit filename="1.13.6.exchangeOddAndEvenBits.cpp" />
+		<Unit filename="1.13.7.binarySearch.cpp" />
+		<Unit filename="1.13.8.setMerge.cpp" />
+		<Unit filename="1.13.9.subsetAndCombination.cpp" />
 		<Unit filename="1.2.1.BSTree2List.cpp" />
 		<Unit filename="1.2.10.MaxLenInBTree.cpp" />
 		<Unit filename="1.2.3.StackWithMin.cpp" />
