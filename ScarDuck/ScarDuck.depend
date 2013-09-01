@@ -1,75 +1,75 @@
 # depslib dependency file v1.0
-1376274164 source:e:\git\algorithm\scarduck\1.10.1.delnuminstr.cpp
+1376199398 source:e:\git\algorithm\scarduck\1.10.1.delnuminstr.cpp
 	<cstdlib>
 	<iostream>
 
-1376635010 source:e:\git\algorithm\scarduck\1.10.10.arraymultiplyassignment.cpp
+1376704436 source:e:\git\algorithm\scarduck\1.10.10.arraymultiplyassignment.cpp
 	<cstdlib>
 	<iostream>
 
-1376274164 source:e:\git\algorithm\scarduck\1.10.2.firstlongestsubstrintwostr.cpp
-	<cstdlib>
-	<cstring>
-	<iostream>
-
-1376310408 source:e:\git\algorithm\scarduck\1.10.3.reversestringwithoutmem.cpp
+1376207308 source:e:\git\algorithm\scarduck\1.10.2.firstlongestsubstrintwostr.cpp
 	<cstdlib>
 	<cstring>
 	<iostream>
 
-1376461696 source:e:\git\algorithm\scarduck\1.10.4.longestarithmeticsquence.cpp
+1376207934 source:e:\git\algorithm\scarduck\1.10.3.reversestringwithoutmem.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1376704436 source:e:\git\algorithm\scarduck\1.10.4.longestarithmeticsquence.cpp
 	<cstdlib>
 	<iostream>
 
-1376446068 source:e:\git\algorithm\scarduck\1.10.5.externalsort.cpp
+1376704436 source:e:\git\algorithm\scarduck\1.10.5.externalsort.cpp
 
-1376465268 source:e:\git\algorithm\scarduck\1.10.6.judgearrayincreaserecursive.cpp
+1376704436 source:e:\git\algorithm\scarduck\1.10.6.judgearrayincreaserecursive.cpp
 	<cstdlib>
 	<iostream>
 
-1376473934 source:e:\git\algorithm\scarduck\1.10.7.neggmbracket.cpp
+1376704436 source:e:\git\algorithm\scarduck\1.10.7.neggmbracket.cpp
 	<cstdlib>
 	<cmath>
 	<iostream>
 
-1376480622 source:e:\git\algorithm\scarduck\1.10.8.hash.cpp
+1376704436 source:e:\git\algorithm\scarduck\1.10.8.hash.cpp
 
-1376481798 source:e:\git\algorithm\scarduck\1.10.9.brotherstring.cpp
+1376704436 source:e:\git\algorithm\scarduck\1.10.9.brotherstring.cpp
 	<cstdlib>
 	<cstring>
 	<iostream>
 
-1376636923 source:e:\git\algorithm\scarduck\1.11.1.minabsdiffoftwo.cpp
+1376704436 source:e:\git\algorithm\scarduck\1.11.1.minabsdiffoftwo.cpp
 
-1376641957 source:e:\git\algorithm\scarduck\1.11.2.mergestr.cpp
+1376704436 source:e:\git\algorithm\scarduck\1.11.2.mergestr.cpp
 	<cstdlib>
 	<cstring>
 	<iostream>
 
-1376642570 source:e:\git\algorithm\scarduck\1.11.3.positiveintdevide.cpp
+1376704436 source:e:\git\algorithm\scarduck\1.11.3.positiveintdevide.cpp
 	<cstdlib>
 	<iostream>
 
-1376644628 source:e:\git\algorithm\scarduck\1.11.4.slope.cpp
+1376704436 source:e:\git\algorithm\scarduck\1.11.4.slope.cpp
 
-1374113270 source:e:\git\algorithm\scarduck\1.2.1.bstree2list.cpp
+1357613153 source:e:\git\algorithm\scarduck\1.2.1.bstree2list.cpp
 	<cstdio>
 	<cstdlib>
 	<iostream>
 	<string>
 
-1374113270 source:e:\git\algorithm\scarduck\1.2.10.maxleninbtree.cpp
+1358133974 source:e:\git\algorithm\scarduck\1.2.10.maxleninbtree.cpp
 	<cstdlib>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.2.3.stackwithmin.cpp
+1357628321 source:e:\git\algorithm\scarduck\1.2.3.stackwithmin.cpp
 	<cstdio>
 	<cstdlib>
 	<assert.h>
 	<iostream>
 	<deque>
 
-1374113270 source:e:\git\algorithm\scarduck\1.2.4.maxsuminsubarray.cpp
+1357697933 source:e:\git\algorithm\scarduck\1.2.4.maxsuminsubarray.cpp
 	<cstdio>
 	<cstdlib>
 	<iostream>
@@ -77,237 +77,237 @@
 	<cstdlib>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.2.5.sumofpathinbstree.cpp
+1357717243 source:e:\git\algorithm\scarduck\1.2.5.sumofpathinbstree.cpp
 	<cstdlib>
 	<iostream>
 	<vector>
 
-1374113270 source:e:\git\algorithm\scarduck\1.2.7.reversesentence.cpp
+1357786892 source:e:\git\algorithm\scarduck\1.2.7.reversesentence.cpp
 	<cstdlib>
 	<cstring>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.2.8.verifysquenceofbstree.cpp
+1357870905 source:e:\git\algorithm\scarduck\1.2.8.verifysquenceofbstree.cpp
 	<cstdlib>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.3.1 1+2+...+n.cpp
+1358167373 source:e:\git\algorithm\scarduck\1.3.1 1+2+...+n.cpp
 	<cstdlib>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.3.10.matrix.cpp
+1372044295 source:e:\git\algorithm\scarduck\1.3.10.matrix.cpp
 
-1374113270 source:e:\git\algorithm\scarduck\1.3.2 findkthnodefromtail.cpp
+1358215258 source:e:\git\algorithm\scarduck\1.3.2 findkthnodefromtail.cpp
 	<cstdlib>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.3.3.sumoftwonum.cpp
+1358216433 source:e:\git\algorithm\scarduck\1.3.3.sumoftwonum.cpp
 	<cstdlib>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.3.4.convertbstree2mirror.cpp
+1358236150 source:e:\git\algorithm\scarduck\1.3.4.convertbstree2mirror.cpp
 	<cstdlib>
 	<iostream>
 	<stack>
 
-1374113270 source:e:\git\algorithm\scarduck\1.3.5.visitbylevelbstree.cpp
+1358304302 source:e:\git\algorithm\scarduck\1.3.5.visitbylevelbstree.cpp
 	<cstdlib>
 	<iostream>
 	<queue>
 
-1374113270 source:e:\git\algorithm\scarduck\1.3.6. findonlyoncechar.cpp
+1358320439 source:e:\git\algorithm\scarduck\1.3.6. findonlyoncechar.cpp
 	<cstdlib>
 	<cstring>
 	<cstdio>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.3.7.lastnumincircle.cpp
+1358326470 source:e:\git\algorithm\scarduck\1.3.7.lastnumincircle.cpp
 	<cstdlib>
 	<iostream>
 	<list>
 
-1374113270 source:e:\git\algorithm\scarduck\1.3.8.fibonacci.cpp
+1358405167 source:e:\git\algorithm\scarduck\1.3.8.fibonacci.cpp
 	<cstdlib>
 	<iostream>
 
-1376472796 source:e:\git\algorithm\scarduck\1.3.8.fibonacci11.c
+1376704436 source:e:\git\algorithm\scarduck\1.3.8.fibonacci11.c
 	<cstdlib>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.3.9.findnumberinleftshiftsequence.cpp
+1358409300 source:e:\git\algorithm\scarduck\1.3.9.findnumberinleftshiftsequence.cpp
 	<cstdlib>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.4.1.bstreepreorder.cpp
+1372066299 source:e:\git\algorithm\scarduck\1.4.1.bstreepreorder.cpp
 	<iostream>
 	<cstdlib>
 	<stack>
 
-1374113270 source:e:\git\algorithm\scarduck\1.4.10.numofoneinbinary.cpp
+1372747302 source:e:\git\algorithm\scarduck\1.4.10.numofoneinbinary.cpp
 	<cstdlib>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.4.2.listmerge.cpp
+1372210892 source:e:\git\algorithm\scarduck\1.4.2.listmerge.cpp
 	<cstdlib>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.4.3.nstringofmplusonelength.cpp
+1372320004 source:e:\git\algorithm\scarduck\1.4.3.nstringofmplusonelength.cpp
 	<cstdlib>
 	<iostream>
 	<string>
 
-1374113270 source:e:\git\algorithm\scarduck\1.4.4.ntroopcompete.cpp
+1372388317 source:e:\git\algorithm\scarduck\1.4.4.ntroopcompete.cpp
 	<cstdlib>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.4.5.max2dsubmatrix.cpp
+1372644269 source:e:\git\algorithm\scarduck\1.4.5.max2dsubmatrix.cpp
 	<cstdlib>
 	<iostream>
 	<cstdlib>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.4.6.powerfulharmonioussystem.cpp
+1372659352 source:e:\git\algorithm\scarduck\1.4.6.powerfulharmonioussystem.cpp
 	<cstdlib>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.4.7.minsquencefromaandb.cpp
+1372731829 source:e:\git\algorithm\scarduck\1.4.7.minsquencefromaandb.cpp
 	<cstdlib>
 	<iostream>
 	<cmath>
 
-1374113270 source:e:\git\algorithm\scarduck\1.4.8.numof1indecimal.cpp
+1372732711 source:e:\git\algorithm\scarduck\1.4.8.numof1indecimal.cpp
 	<cstdlib>
 	<iostream>
 
-1374113270 source:e:\git\algorithm\scarduck\1.4.9.squenceofstackpushpop.cpp
-	<cstdlib>
-	<iostream>
-	<stack>
-	<string>
-
-1374113270 source:e:\git\algorithm\scarduck\1.5.1.jumpstairs.cpp
-	<cstdlib>
-	<iostream>
-
-1374113270 source:e:\git\algorithm\scarduck\1.5.10.nintsquencesumn.cpp
-	<cstdlib>
-	<iostream>
-
-1374113270 source:e:\git\algorithm\scarduck\1.5.2.stringleftrotation.cpp
-	<cstdlib>
-	<iostream>
-	<cstring>
-
-1374113270 source:e:\git\algorithm\scarduck\1.5.3.findmaxnumstring.cpp
-	<cstdlib>
-	<iostream>
-	<cstring>
-
-1374113270 source:e:\git\algorithm\scarduck\1.5.4.listmanipulation.cpp
-	<cstdlib>
-	<iostream>
-
-1374113270 source:e:\git\algorithm\scarduck\1.5.5.fourredcardsandfourbluecards.cpp
-
-1374113270 source:e:\git\algorithm\scarduck\1.5.6.combineofnequalm.cpp
-	<cstdlib>
-	<iostream>
-	<vector>
-
-1374113270 source:e:\git\algorithm\scarduck\1.5.7.convertstring2int.cpp
-	<cstdlib>
-	<iostream>
-
-1374113270 source:e:\git\algorithm\scarduck\1.5.8.lis.cpp
-	<cstdlib>
-	<iostream>
-
-1374113270 source:e:\git\algorithm\scarduck\1.5.9.nbrackets.cpp
-	<cstdlib>
-	<iostream>
-	<vector>
-	<string>
-	<cstdlib>
-	<iostream>
-	<string>
-	<vector>
-
-1374113270 source:e:\git\algorithm\scarduck\1.6.1.btreedepth.cpp
-	<cstdlib>
-	<iostream>
-
-1374113270 source:e:\git\algorithm\scarduck\1.6.10.delcharinstring.cpp
-	<cstdlib>
-	<cstring>
-	<iostream>
-
-1374113270 source:e:\git\algorithm\scarduck\1.6.2.fullpermutationsofstring.cpp
-	<cstdlib>
-	<cstring>
-	<iostream>
-	<cstdlib>
-	<cstring>
-	<iostream>
-	<vector>
-
-1374113270 source:e:\git\algorithm\scarduck\1.6.3.partitionbyoddandeven.cpp
-	<cstdlib>
-	<iostream>
-
-1374113270 source:e:\git\algorithm\scarduck\1.6.4.deletelistnodeino1.cpp
-	<cstdlib>
-	<iostream>
-
-1374113270 source:e:\git\algorithm\scarduck\1.6.5.reverseprintlistnode.cpp
-	<cstdlib>
-	<iostream>
-
-1374113270 source:e:\git\algorithm\scarduck\1.6.6.finalclassincpp.cpp
-
-1374113270 source:e:\git\algorithm\scarduck\1.6.8.twonotrepeatednuminarr.cpp
-	<cstdlib>
-	<iostream>
-
-1374113270 source:e:\git\algorithm\scarduck\1.6.9.commonnodeintwolist.cpp
-	<cstdlib>
-	<iostream>
-
-1376274164 source:e:\git\algorithm\scarduck\1.7.1.uglynumber.cpp
-	<cstdlib>
-	<iostream>
-
-1374650290 source:e:\git\algorithm\scarduck\1.7.10.powerlogn.cpp
-	<cstdlib>
-	<iostream>
-
-1376310365 source:e:\git\algorithm\scarduck\1.7.2.printone2maxofn.cpp
-	<cstdlib>
-	<iostream>
-
-1374133173 source:e:\git\algorithm\scarduck\1.7.3.reverseprintstack.cpp
+1372746422 source:e:\git\algorithm\scarduck\1.4.9.squenceofstackpushpop.cpp
 	<cstdlib>
 	<iostream>
 	<stack>
+	<string>
 
-1374138846 source:e:\git\algorithm\scarduck\1.7.4.fivepokerisjunko.cpp
+1372747642 source:e:\git\algorithm\scarduck\1.5.1.jumpstairs.cpp
 	<cstdlib>
 	<iostream>
 
-1374562503 source:e:\git\algorithm\scarduck\1.7.5.sumofndice.cpp
+1373075492 source:e:\git\algorithm\scarduck\1.5.10.nintsquencesumn.cpp
 	<cstdlib>
 	<iostream>
 
-1374570347 source:e:\git\algorithm\scarduck\1.7.6.arrangearray2smallestnum.cpp
+1372748702 source:e:\git\algorithm\scarduck\1.5.2.stringleftrotation.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+
+1372834268 source:e:\git\algorithm\scarduck\1.5.3.findmaxnumstring.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+
+1372837801 source:e:\git\algorithm\scarduck\1.5.4.listmanipulation.cpp
+	<cstdlib>
+	<iostream>
+
+1372838488 source:e:\git\algorithm\scarduck\1.5.5.fourredcardsandfourbluecards.cpp
+
+1372919779 source:e:\git\algorithm\scarduck\1.5.6.combineofnequalm.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1372989629 source:e:\git\algorithm\scarduck\1.5.7.convertstring2int.cpp
+	<cstdlib>
+	<iostream>
+
+1373011089 source:e:\git\algorithm\scarduck\1.5.8.lis.cpp
+	<cstdlib>
+	<iostream>
+
+1373075147 source:e:\git\algorithm\scarduck\1.5.9.nbrackets.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<iostream>
+	<string>
+	<vector>
+
+1373091733 source:e:\git\algorithm\scarduck\1.6.1.btreedepth.cpp
+	<cstdlib>
+	<iostream>
+
+1373463159 source:e:\git\algorithm\scarduck\1.6.10.delcharinstring.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1373096447 source:e:\git\algorithm\scarduck\1.6.2.fullpermutationsofstring.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<vector>
+
+1373287787 source:e:\git\algorithm\scarduck\1.6.3.partitionbyoddandeven.cpp
+	<cstdlib>
+	<iostream>
+
+1373290536 source:e:\git\algorithm\scarduck\1.6.4.deletelistnodeino1.cpp
+	<cstdlib>
+	<iostream>
+
+1373373455 source:e:\git\algorithm\scarduck\1.6.5.reverseprintlistnode.cpp
+	<cstdlib>
+	<iostream>
+
+1373372701 source:e:\git\algorithm\scarduck\1.6.6.finalclassincpp.cpp
+
+1373376753 source:e:\git\algorithm\scarduck\1.6.8.twonotrepeatednuminarr.cpp
+	<cstdlib>
+	<iostream>
+
+1373458947 source:e:\git\algorithm\scarduck\1.6.9.commonnodeintwolist.cpp
+	<cstdlib>
+	<iostream>
+
+1376191203 source:e:\git\algorithm\scarduck\1.7.1.uglynumber.cpp
+	<cstdlib>
+	<iostream>
+
+1376208135 source:e:\git\algorithm\scarduck\1.7.10.powerlogn.cpp
+	<cstdlib>
+	<iostream>
+
+1376704436 source:e:\git\algorithm\scarduck\1.7.2.printone2maxofn.cpp
+	<cstdlib>
+	<iostream>
+
+1374372258 source:e:\git\algorithm\scarduck\1.7.3.reverseprintstack.cpp
+	<cstdlib>
+	<iostream>
+	<stack>
+
+1374372258 source:e:\git\algorithm\scarduck\1.7.4.fivepokerisjunko.cpp
+	<cstdlib>
+	<iostream>
+
+1376208135 source:e:\git\algorithm\scarduck\1.7.5.sumofndice.cpp
+	<cstdlib>
+	<iostream>
+
+1376208135 source:e:\git\algorithm\scarduck\1.7.6.arrangearray2smallestnum.cpp
 	<cstdio>
 	<cstdlib>
 	<cstring>
 	<iostream>
 
-1374579892 source:e:\git\algorithm\scarduck\1.7.7.minnuminrotatearray.cpp
+1376208135 source:e:\git\algorithm\scarduck\1.7.7.minnuminrotatearray.cpp
 	<cstdlib>
 	<iostream>
 
-1374636594 source:e:\git\algorithm\scarduck\1.7.8.permutationsofsring.cpp
+1376208135 source:e:\git\algorithm\scarduck\1.7.8.permutationsofsring.cpp
 	<cstring>
 	<cstdlib>
 	<iostream>
@@ -316,110 +316,110 @@
 	<iostream>
 	<vector>
 
-1374646586 source:e:\git\algorithm\scarduck\1.7.9.power.cpp
+1376208135 source:e:\git\algorithm\scarduck\1.7.9.power.cpp
 	<cstdlib>
 	<iostream>
 
-1374734934 source:e:\git\algorithm\scarduck\1.8.1.longestpalindrome.cpp
-	<cstdlib>
-	<cstring>
-	<iostream>
-
-1375782471 source:e:\git\algorithm\scarduck\1.8.10.urlsize.cpp
-
-1374737249 source:e:\git\algorithm\scarduck\1.8.2.numgreaterthanhalf.cpp
-	<cstdlib>
-	<iostream>
-
-1375335665 source:e:\git\algorithm\scarduck\1.8.3.lowestparentoftwonode.cpp
-	<cstdlib>
-	<iostream>
-
-1375428088 source:e:\git\algorithm\scarduck\1.8.4.complexlist.cpp
-	<cstdlib>
-	<iostream>
-
-1375777782 source:e:\git\algorithm\scarduck\1.8.5.aboutlist.cpp
-	<cstdlib>
-	<iostream>
-	<cstdlib>
-	<iostream>
-	<cstdlib>
-	<iostream>
-	<cstdlib>
-	<iostream>
-	<cstdlib>
-	<iostream>
-	<cstdlib>
-	<iostream>
-	<cstdlib>
-	<iostream>
-
-1375776855 source:e:\git\algorithm\scarduck\1.8.6.arraycomparelist.cpp
-
-1375778423 source:e:\git\algorithm\scarduck\1.8.7.strstr.cpp
+1376208135 source:e:\git\algorithm\scarduck\1.8.1.longestpalindrome.cpp
 	<cstdlib>
 	<cstring>
 	<iostream>
 
-1375781231 source:e:\git\algorithm\scarduck\1.8.8.numleftsmallrightgreat.cpp
+1376208135 source:e:\git\algorithm\scarduck\1.8.10.urlsize.cpp
+
+1376208135 source:e:\git\algorithm\scarduck\1.8.2.numgreaterthanhalf.cpp
 	<cstdlib>
 	<iostream>
 
-1375782076 source:e:\git\algorithm\scarduck\1.8.9.reversestringpair.cpp
-
-1375788320 source:e:\git\algorithm\scarduck\1.9.1.partitionarraybyodd.cpp
+1376208135 source:e:\git\algorithm\scarduck\1.8.3.lowestparentoftwonode.cpp
 	<cstdlib>
 	<iostream>
 
-1376274164 source:e:\git\algorithm\scarduck\1.9.10.listreverse.cpp
+1376208135 source:e:\git\algorithm\scarduck\1.8.4.complexlist.cpp
 	<cstdlib>
 	<iostream>
 
-1375857624 source:e:\git\algorithm\scarduck\1.9.2.memmove.cpp
+1376208135 source:e:\git\algorithm\scarduck\1.8.5.aboutlist.cpp
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<iostream>
 	<cstdlib>
 	<iostream>
 
-1375860830 source:e:\git\algorithm\scarduck\1.9.3.randomgenerator.cpp
+1376208135 source:e:\git\algorithm\scarduck\1.8.6.arraycomparelist.cpp
 
-1375861846 source:e:\git\algorithm\scarduck\1.9.4.searchquery.cpp
-
-1375867511 source:e:\git\algorithm\scarduck\1.9.5.substrcntinstr.cpp
-	<cstdlib>
-	<cstring>
-	<iostream>
-
-1375868614 source:e:\git\algorithm\scarduck\1.9.6.array2tree.cpp
-	<cstdlib>
-	<iostream>
-
-1376032768 source:e:\git\algorithm\scarduck\1.9.7.bigintmultiple.cpp
-	<cstdlib>
-	<iostream>
-
-1376041234 source:e:\git\algorithm\scarduck\1.9.8.continuousincreasenumstr.cpp
+1376208135 source:e:\git\algorithm\scarduck\1.8.7.strstr.cpp
 	<cstdlib>
 	<cstring>
 	<iostream>
 
-1376310381 source:e:\git\algorithm\scarduck\1.9.9.movestar2front.cpp
+1376208135 source:e:\git\algorithm\scarduck\1.8.8.numleftsmallrightgreat.cpp
 	<cstdlib>
 	<iostream>
 
-1376911503 source:e:\git\algorithm\scarduck\1.11.5.stringcompression.cpp
+1376208135 source:e:\git\algorithm\scarduck\1.8.9.reversestringpair.cpp
+
+1376208135 source:e:\git\algorithm\scarduck\1.9.1.partitionarraybyodd.cpp
+	<cstdlib>
+	<iostream>
+
+1376197720 source:e:\git\algorithm\scarduck\1.9.10.listreverse.cpp
+	<cstdlib>
+	<iostream>
+
+1376704436 source:e:\git\algorithm\scarduck\1.9.2.memmove.cpp
+	<cstdlib>
+	<iostream>
+
+1376704436 source:e:\git\algorithm\scarduck\1.9.3.randomgenerator.cpp
+
+1376704436 source:e:\git\algorithm\scarduck\1.9.4.searchquery.cpp
+
+1376704436 source:e:\git\algorithm\scarduck\1.9.5.substrcntinstr.cpp
 	<cstdlib>
 	<cstring>
 	<iostream>
 
-1376911503 source:e:\git\algorithm\scarduck\1.11.6.findreplacednum.cpp
-
-1376911503 source:e:\git\algorithm\scarduck\1.11.7.findtherepeatnum.cpp
+1376704436 source:e:\git\algorithm\scarduck\1.9.6.array2tree.cpp
 	<cstdlib>
 	<iostream>
 
-1376911503 source:e:\git\algorithm\scarduck\1.11.8.javahashtableandhashmap.cpp
+1376704437 source:e:\git\algorithm\scarduck\1.9.7.bigintmultiple.cpp
+	<cstdlib>
+	<iostream>
 
-1376911707 source:e:\git\algorithm\scarduck\1.11.9.permutationsofnum.cpp
+1376704437 source:e:\git\algorithm\scarduck\1.9.8.continuousincreasenumstr.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1376704437 source:e:\git\algorithm\scarduck\1.9.9.movestar2front.cpp
+	<cstdlib>
+	<iostream>
+
+1376723553 source:e:\git\algorithm\scarduck\1.11.5.stringcompression.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1376805154 source:e:\git\algorithm\scarduck\1.11.6.findreplacednum.cpp
+
+1376806719 source:e:\git\algorithm\scarduck\1.11.7.findtherepeatnum.cpp
+	<cstdlib>
+	<iostream>
+
+1376806994 source:e:\git\algorithm\scarduck\1.11.8.javahashtableandhashmap.cpp
+
+1376812800 source:e:\git\algorithm\scarduck\1.11.9.permutationsofnum.cpp
 	<cstdlib>
 	<cstring>
 	<iostream>
@@ -434,42 +434,47 @@
 	<vector>
 	<fstream>
 
-1376997329 source:e:\git\algorithm\scarduck\1.12.1.delrepeatnodeintwolist.cpp
+1377397970 source:e:\git\algorithm\scarduck\1.12.1.delrepeatnodeintwolist.cpp
 	<cstdlib>
 	<iostream>
 
-1376999382 source:e:\git\algorithm\scarduck\1.12.2.longestcommonstring.cpp
+1377397970 source:e:\git\algorithm\scarduck\1.12.2.longestcommonstring.cpp
 	<cstdlib>
 	<cstring>
 	<iostream>
 
-1377075306 source:e:\git\algorithm\scarduck\1.12.3.unsignedlong2binary.cpp
+1377397970 source:e:\git\algorithm\scarduck\1.12.3.unsignedlong2binary.cpp
 	<cstdlib>
 	<iostream>
 
-1377077349 source:e:\git\algorithm\scarduck\1.12.4.40yiint.cpp
+1377397970 source:e:\git\algorithm\scarduck\1.12.4.40yiint.cpp
 	<stdio.h>
 
-1377077945 source:e:\git\algorithm\scarduck\1.12.5.bitmap.cpp
+1377397970 source:e:\git\algorithm\scarduck\1.12.5.bitmap.cpp
 
-1377084007 source:e:\git\algorithm\scarduck\1.12.6.define.cpp
+1377397970 source:e:\git\algorithm\scarduck\1.12.6.define.cpp
 	<cstdlib>
 	<cmath>
 	<iostream>
 
-1377153826 source:e:\git\algorithm\scarduck\1.12.7.greaterthank.cpp
+1377397970 source:e:\git\algorithm\scarduck\1.12.7.greaterthank.cpp
 	<cstdlib>
 	<cmath>
 	<algorithm>
 	<iostream>
 
-1377154962 source:e:\git\algorithm\scarduck\1.12.8.randomfunction.cpp
+1377397970 source:e:\git\algorithm\scarduck\1.12.8.randomfunction.cpp
 
-1377155734 source:e:\git\algorithm\scarduck\1.12.9.judgenumissquareofsomeone.cpp
+1377397970 source:e:\git\algorithm\scarduck\1.12.9.judgenumissquareofsomeone.cpp
 	<cstdlib>
 	<iostream>
 
-1377172969 source:e:\git\algorithm\scarduck\1.12.10.findspecialnodeinbstree.cpp
+1377397970 source:e:\git\algorithm\scarduck\1.12.10.findspecialnodeinbstree.cpp
 	<cstdlib>
+	<iostream>
+
+1377398222 source:e:\git\algorithm\scarduck\1.12.11.strstrandstrncmp.cpp
+	<cstdlib>
+	<cstring>
 	<iostream>
 
