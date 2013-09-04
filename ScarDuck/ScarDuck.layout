@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="1.12.11.strstrAndStrncmp.cpp" open="0" top="0" tabpos="0">
-		<Cursor position="63" topLine="0" />
-	</File>
-	<File name="1.13.1.splitSet2TwoEqualSet.cpp" open="1" top="1" tabpos="0">
-		<Cursor position="806" topLine="0" />
-	</File>
 </CodeBlocks_layout_file>

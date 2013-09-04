@@ -473,8 +473,55 @@
 	<cstdlib>
 	<iostream>
 
-1377398222 source:e:\git\algorithm\scarduck\1.12.11.strstrandstrncmp.cpp
+1377174049 D
+
+1377398250 source:e:\git\algorithm\scarduck\1.12.11.strstrandstrncmp.cpp
 	<cstdlib>
 	<cstring>
 	<iostream>
+
+1377777844 9ac79bf7a54a1f8cc63c682f038e91cfed506
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1378036715 source:e:\git\algorithm\scarduck\1.13.1.splitset2twoequalset.cpp
+	<cstdlib>
+	<iostream>
+
+1378036715 source:e:\git\algorithm\scarduck\1.13.2.topk.cpp
+
+1378036715 source:e:\git\algorithm\scarduck\1.13.3.javacollection.cpp
+
+1378036715 source:e:\git\algorithm\scarduck\1.13.4.printmatrixclockwisely.cpp
+	<cstdlib>
+	<iostream>
+
+1378036715 source:e:\git\algorithm\scarduck\1.13.5.allsubsetinset.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1378036715 source:e:\git\algorithm\scarduck\1.13.6.exchangeoddandevenbits.cpp
+	<cstdlib>
+	<iostream>
+
+1378036715 source:e:\git\algorithm\scarduck\1.13.7.binarysearch.cpp
+	<cstdlib>
+	<iostream>
+
+1378036715 source:e:\git\algorithm\scarduck\1.13.8.setmerge.cpp
+
+1378036715 source:e:\git\algorithm\scarduck\1.13.9.subsetandcombination.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1378036715 source:e:\git\algorithm\scarduck\1.13.10.algorithmdesign.cpp
+
+1378299046 source:e:\git\algorithm\scarduck\1.14.1.bubblesort.cpp
+	<cstdlib>
+	<iostream>
+
+1372044295 source:e:\git\algorithm\scarduck\1.3.10.algorithmdesign.cpp
 
