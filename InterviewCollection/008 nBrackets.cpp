@@ -1,4 +1,4 @@
-
+#if 0
 /*
 copyright@nciaebupt 转载请注明出处
 题目：N对括号可以有多少种匹配排列方式？比如两对括号可以有两种：（）（）和（（））
@@ -44,3 +44,4 @@ int main(int argc, char ** argv){
   return 0;
 
 }
+#endif

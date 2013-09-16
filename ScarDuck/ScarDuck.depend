@@ -426,13 +426,11 @@
 	<set>
 	<string>
 
-1374113270 source:e:\git\algorithm\scarduck\test.cpp
+1378519237 source:e:\git\algorithm\scarduck\test.cpp
 	<cstdlib>
 	<cstdio>
 	<cstring>
 	<iostream>
-	<vector>
-	<fstream>
 
 1377397970 source:e:\git\algorithm\scarduck\1.12.1.delrepeatnodeintwolist.cpp
 	<cstdlib>
@@ -485,7 +483,7 @@
 	<cstring>
 	<iostream>
 
-1378036715 source:e:\git\algorithm\scarduck\1.13.1.splitset2twoequalset.cpp
+1378299880 source:e:\git\algorithm\scarduck\1.13.1.splitset2twoequalset.cpp
 	<cstdlib>
 	<iostream>
 
@@ -519,9 +517,108 @@
 
 1378036715 source:e:\git\algorithm\scarduck\1.13.10.algorithmdesign.cpp
 
-1378299046 source:e:\git\algorithm\scarduck\1.14.1.bubblesort.cpp
+1378300083 source:e:\git\algorithm\scarduck\1.14.1.bubblesort.cpp
 	<cstdlib>
 	<iostream>
 
 1372044295 source:e:\git\algorithm\scarduck\1.3.10.algorithmdesign.cpp
+
+1378360557 source:e:\git\algorithm\scarduck\1.14.2.selectsort.cpp
+	<cstdlib>
+	<iostream>
+
+1378362161 source:e:\git\algorithm\scarduck\1.14.3.insertsort.cpp
+	<cstdlib>
+	<iostream>
+
+1378362429 source:e:\git\algorithm\scarduck\1.14.4.shellsort.cpp
+
+1378364823 source:e:\git\algorithm\scarduck\1.14.5.quicksort.cpp
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<stack>
+
+1378368787 source:e:\git\algorithm\scarduck\1.14.6.mergesort.cpp
+	<cstdlib>
+	<iostream>
+
+1378371954 source:e:\git\algorithm\scarduck\1.14.7.heapsort.cpp
+	<cstdlib>
+	<iostream>
+
+1378372087 source:e:\git\algorithm\scarduck\1.14.8.sortcompare.cpp
+
+1378441440 source:e:\git\algorithm\scarduck\1.15.1.circleingraph.cpp
+	<cstdlib>
+	<iostream>
+	<stack>
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<iostream>
+
+1378454661 source:e:\git\algorithm\scarduck\1.15.2.primesdecomposition.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1378455545 source:e:\git\algorithm\scarduck\1.15.3.gcdandlcm.cpp
+
+1378457420 source:e:\git\algorithm\scarduck\1.16.1.applicationcontext.cpp
+
+1378457603 source:e:\git\algorithm\scarduck\1.16.2.applicationcontext-event.cpp
+
+1378457979 source:e:\git\algorithm\scarduck\1.16.3.mysql_engine.cpp
+
+1378458034 source:e:\git\algorithm\scarduck\1.16.4.mysql_index.cpp
+
+1378458121 source:e:\git\algorithm\scarduck\1.16.6.mysql_query.cpp
+
+1378516315 source:e:\git\algorithm\scarduck\1.17.1.twoorderqueue.cpp
+	<iostream>
+
+1378516447 source:e:\git\algorithm\scarduck\1.17.2.venom.cpp
+
+1378517419 source:e:\git\algorithm\scarduck\1.17.3.brongirl.cpp
+
+1378519594 source:e:\git\algorithm\scarduck\1.17.4.gold.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+
+1378521155 source:e:\git\algorithm\scarduck\1.17.5.pirate.cpp
+
+1378521465 source:e:\git\algorithm\scarduck\1.17.6.1024factorial.cpp
+
+1378522817 source:e:\git\algorithm\scarduck\1.17.7.coins.cpp
+	<cstdlib>
+	<iostream>
+
+1378541504 source:e:\git\algorithm\scarduck\1.17.8.stonescombine.cpp
+	<cstdlib>
+	<iostream>
+
+1378541640 source:e:\git\algorithm\scarduck\1.18.1.producerandconsumer.cpp
+
+1378545015 source:e:\git\algorithm\scarduck\1.18.2.dp.cpp
+	<cstdlib>
+	<iostream>
+
+1378545085 source:e:\git\algorithm\scarduck\1.18.3.01bag.cpp
+
+1378546129 source:e:\git\algorithm\scarduck\1.18.4.greedy.cpp
+
+1378688900 source:e:\git\algorithm\scarduck\1.18.5.packing.cpp
+
+1378692183 source:e:\git\algorithm\scarduck\1.19.1.bigdata.cpp
+
+1378698046 source:e:\git\algorithm\scarduck\dp.cpp
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<iostream>
 

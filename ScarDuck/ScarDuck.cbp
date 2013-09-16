@@ -73,6 +73,35 @@
 		<Unit filename="1.13.8.setMerge.cpp" />
 		<Unit filename="1.13.9.subsetAndCombination.cpp" />
 		<Unit filename="1.14.1.bubbleSort.cpp" />
+		<Unit filename="1.14.2.selectSort.cpp" />
+		<Unit filename="1.14.3.insertSort.cpp" />
+		<Unit filename="1.14.4.shellSort.cpp" />
+		<Unit filename="1.14.5.quickSort.cpp" />
+		<Unit filename="1.14.6.mergeSort.cpp" />
+		<Unit filename="1.14.7.heapSort.cpp" />
+		<Unit filename="1.14.8.sortCompare.cpp" />
+		<Unit filename="1.15.1.circleInGraph.cpp" />
+		<Unit filename="1.15.2.primesDecomposition.cpp" />
+		<Unit filename="1.15.3.gcdAndLcm.cpp" />
+		<Unit filename="1.16.1.ApplicationContext.cpp" />
+		<Unit filename="1.16.2.ApplicationContext-event.cpp" />
+		<Unit filename="1.16.3.mysql_engine.cpp" />
+		<Unit filename="1.16.4.mysql_index.cpp" />
+		<Unit filename="1.16.6.mysql_query.cpp" />
+		<Unit filename="1.17.1.twoOrderQueue.cpp" />
+		<Unit filename="1.17.2.venom.cpp" />
+		<Unit filename="1.17.3.bronGirl.cpp" />
+		<Unit filename="1.17.4.gold.cpp" />
+		<Unit filename="1.17.5.pirate.cpp" />
+		<Unit filename="1.17.6.1024Factorial.cpp" />
+		<Unit filename="1.17.7.coins.cpp" />
+		<Unit filename="1.17.8.stonesCombine.cpp" />
+		<Unit filename="1.18.1.producerAndConsumer.cpp" />
+		<Unit filename="1.18.2.dp.cpp" />
+		<Unit filename="1.18.3.01bag.cpp" />
+		<Unit filename="1.18.4.greedy.cpp" />
+		<Unit filename="1.18.5.packing.cpp" />
+		<Unit filename="1.19.1.bigdata.cpp" />
 		<Unit filename="1.2.1.BSTree2List.cpp" />
 		<Unit filename="1.2.10.MaxLenInBTree.cpp" />
 		<Unit filename="1.2.3.StackWithMin.cpp" />
@@ -152,6 +181,7 @@
 		<Unit filename="1.9.7.bigIntMultiple.cpp" />
 		<Unit filename="1.9.8.continuousIncreaseNumStr.cpp" />
 		<Unit filename="1.9.9.moveStar2Front.cpp" />
+		<Unit filename="dp.cpp" />
 		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />

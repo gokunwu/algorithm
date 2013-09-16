@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1379131120 source:e:\git\algorithm\test\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cmath>
+

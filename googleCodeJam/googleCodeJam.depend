@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1378730835 source:e:\git\algorithm\googlecodejam\1.storecredit.cpp
+	<fstream>
+	<iostream>
+
+1378731465 source:e:\git\algorithm\googlecodejam\2.reverse.cpp
+	<fstream>
+	<string>
+

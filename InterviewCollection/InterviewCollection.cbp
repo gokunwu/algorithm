@@ -40,6 +40,9 @@
 		<Unit filename="006 heapSort.cpp" />
 		<Unit filename="007 sumEqualYInX.cpp" />
 		<Unit filename="008 nBrackets.cpp" />
+		<Unit filename="google-editDistance.cpp" />
+		<Unit filename="google-prime.cpp" />
+		<Unit filename="google-swapSort.cpp" />
 		<Unit filename="topicCollection" />
 		<Extensions>
 			<code_completion />

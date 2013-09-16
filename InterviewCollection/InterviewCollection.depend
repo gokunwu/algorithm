@@ -67,3 +67,52 @@
 	<vector>
 	<string>
 
+1364203561 source:e:\git\algorithm\interviewcollection\001 selectionsort.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
+1364571324 source:e:\git\algorithm\interviewcollection\002 insertsort.cpp
+	<cstdlib>
+	<iostream>
+
+1364637208 source:e:\git\algorithm\interviewcollection\003 bubblesort.cpp
+	<cstdlib>
+	<iostream>
+
+1364710876 source:e:\git\algorithm\interviewcollection\004 mergesort.cpp
+	<cstdlib>
+	<iostream>
+
+1364714903 source:e:\git\algorithm\interviewcollection\005 quicksort.cpp
+	<cstdlib>
+	<iostream>
+
+1372146419 source:e:\git\algorithm\interviewcollection\006 heapsort.cpp
+	<cstdlib>
+	<iostream>
+
+1372157810 source:e:\git\algorithm\interviewcollection\007 sumequalyinx.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1378717258 source:e:\git\algorithm\interviewcollection\google-prime.cpp
+	<cstdlib>
+	<iostream>
+
+1378715364 source:e:\git\algorithm\interviewcollection\008 nbrackets.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+	<string>
+
+1378717272 source:e:\git\algorithm\interviewcollection\google-swapsort.cpp
+	<cstdlib>
+	<iostream>
+
+1378720892 source:e:\git\algorithm\interviewcollection\google-editdistance.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+
